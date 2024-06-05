@@ -12,7 +12,7 @@ Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student in the Department of
 
 A systems researcher working at the intersection of Cloud Computing, Big Data, Distributed systems and AI/ML. Currently, my research focuses on building efficient computation and communication models to scale AI/ML from edge to cloud and HPC (working on topics like distributed ML training, federated learning, gradient compression, stream processing, differential privacy, etc.).
 
-Outside of research, I'm also an amateur photographer interested in shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some of my pictures.
+Outside of research, I'm also an amateur photographer who shoots wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some of my pictures.
 
 ---
 
