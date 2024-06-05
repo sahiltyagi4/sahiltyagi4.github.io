@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sahilpic.jpg">
+<img class="profile-picture" src="sahil_pic.jpg">
 
 > **I will graduate soon and currently surfing the job market for full-time research positions.**
 
@@ -51,13 +51,13 @@ Outside of research, I'm also an amateur photographer who shoots wildlife and sp
 
 ## Teaching Experience
 
-Course 			   		   | 			Term
----------------------------|---------------------------------
-High-Performance Computing | 		Spring 2024
-    Computer Networks 	   | 	Fall 2023, Fall 2022
-	Operating Systems 	   | 		Spring 2023
-	Distributed Systems    | 	Spring 2022, Spring 2021
-	Cloud Computing 	   |   Fall 2021, Fall 2020, Fall 2019
+Course 			   		   |         Role 		  | 			Term
+---------------------------|---------------------------------------------------------
+High-Performance Computing | Associate Instructor | 		Spring 2024
+    Computer Networks 	   | Associate Instructor | 	Fall 2023, Fall 2022
+	Operating Systems 	   | Associate Instructor | 		Spring 2023
+	Distributed Systems    | Associate Instructor | 	Spring 2022, Spring 2021
+	Cloud Computing 	   | Associate Instructor |   Fall 2021, Fall 2020, Fall 2019
 
 ---
 
