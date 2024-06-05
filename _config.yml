@@ -16,6 +16,8 @@ sass:
     style: compressed
     sass_dir: _sass
 
+include: ["_includes"]
+
 nav:
  - name: "About"
    link: "/"
@@ -23,5 +25,3 @@ nav:
    link: "sahil_tyagiCV.pdf"
  - name: "Contact"
    link: "contact"
-
-include: ["_includes"]
