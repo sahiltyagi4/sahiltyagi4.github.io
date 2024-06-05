@@ -51,7 +51,7 @@ Outside of research, I'm also an amateur photographer mainly shooting wildlife a
 
 ## Teaching Experience
 
-         Course 		   |         Role 		  | 			Term
+Course | Role | Term
 ---------------------------|---------------------------------------------------------
 High-Performance Computing | Associate Instructor | 		Spring 2024
     Computer Networks 	   | Associate Instructor | 	Fall 2023, Fall 2022
