@@ -88,7 +88,7 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 1. **05/23**: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India.
 1. **12/22**: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[pdf]](files/scadles_talk.pdf).
 1. **07/20**: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[pdf]](files/resrctaming_talk.pdf).
-1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA.
+1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
 
 ---
 
