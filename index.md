@@ -61,9 +61,9 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 ---
 
 ## Professional Services
-- *USENIX OSDI 2024* (Artifact evaluation committee)
-- *USNIX ATC 2024* (Artifact evaluation committee)
-- *IEEE CLUSTER 2024* (Technical program committee)
+- [*USENIX OSDI 2024*](https://www.usenix.org/conference/osdi24/call-for-artifacts) (Artifact evaluation committee)
+- [*USNIX ATC 2024*](https://www.usenix.org/conference/atc24/call-for-artifacts) (Artifact evaluation committee)
+- [*IEEE CLUSTER 2024*](https://clustercomp.org/2024/) (Technical program committee)
 
 ---
 
