@@ -15,7 +15,7 @@ Outside of research, I'm also an amateur photographer mainly shooting wildlife a
 
 ---
 
-## Research Interest
+## Research Interests
 
 - Large-scale ML systems
 - Deep Learning
