@@ -1,7 +1,6 @@
 remote_theme: ankitsultana/researcher@gem
 title: Sahil Tyagi
-#url: "https://ankitsultana.com"
-#baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
