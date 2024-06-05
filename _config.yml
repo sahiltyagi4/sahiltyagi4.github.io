@@ -23,3 +23,5 @@ nav:
    link: "sahil_tyagiCV.pdf"
  - name: "Contact"
    link: "contact"
+
+include: ["_includes"]
