@@ -30,7 +30,7 @@ Outside of research, I'm also an amateur photographer who shoots wildlife and sp
 ## Publications
 
 - **Conference Proceedings**
-	1. **Tyagi, S.**, & Swany, M. (2023). Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (BigData), 925-935 *(Accep. rate 17.5%)*.
+	1. **Tyagi, S.**, & Swany, M. (2023). Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (BigData), 925-935 *(Accep. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	1. **Tyagi, S.**, & Swany, M. (2023). Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (CLUSTER), 1-12 *(Accep. rate 25%)*.
 	1. **Tyagi, S.**, & Swany, M. (2023). GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (CLOUD), 319-329 *(Accep. rate 20%)*.
 	1. **Tyagi, S.**, & Sharma, P. (2023). Scavenger: A Cloud Service For Optimizing Cost and Performance of ML Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 403-413 *(Accep. rate 21%)*.
@@ -80,20 +80,20 @@ High-Performance Computing | Associate Instructor | 		Spring 2024
 
 ## Presentations and Talks
 
-1. *4/24*: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA.
-1. *12/23*: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy.
-1. *11/23*: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA.
-1. *11/23*: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA.
-1. *07/23*: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois.
-1. *05/23*: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India.
-1. *05/23*: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India.
-1. *12/22*: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan.
-1. *07/20*: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual.
-1. *11/18*: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA.
+1. **4/24**: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA.
+1. **12/23**: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy.
+1. **11/23**: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA.
+1. **11/23**: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA.
+1. **07/23**: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois.
+1. **05/23**: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India.
+1. **05/23**: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India.
+1. **12/22**: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan.
+1. **07/20**: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual.
+1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA.
 
 ---
 
 ## References
 
 * [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307), Dept. of Intelligent Systems Engineering, Indiana University Bloomington
-* [Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/), Dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India. 
+* [Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/), Dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
