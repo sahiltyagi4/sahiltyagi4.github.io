@@ -1,13 +1,16 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
-
 remote_theme: ankitsultana/researcher@gem
+title: Sahil Tyagi
+#url: "https://ankitsultana.com"
+#baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
+
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
