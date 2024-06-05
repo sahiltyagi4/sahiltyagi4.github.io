@@ -44,19 +44,19 @@ Outside of research, I'm also an amateur photographer mainly shooting wildlife a
 
 - **Journal articles**
 	1. **Tyagi, S.**, & Sharma, P., “OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Systems,” (in preparation), 2024.
-	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing, 9, 1391-1407.
+	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing, 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
 
 ---
 
 ## Teaching Experience
 
 Course | Role | Term
----------------------------|---------------------------------------------------------
-High-Performance Computing | Associate Instructor | 		Spring 2024
-    Computer Networks 	   | Associate Instructor | 	Fall 2023, Fall 2022
-	Operating Systems 	   | Associate Instructor | 		Spring 2023
-	Distributed Systems    | Associate Instructor | 	Spring 2022, Spring 2021
-	Cloud Computing 	   | Associate Instructor |   Fall 2021, Fall 2020, Fall 2019
+----------------------------------------------------|----------------------|-----------------------------------
+High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2024
+    Computer Networks (ENGR-E318/518, CSCI-P438/538)| Associate Instructor | 	Fall 2023, Fall 2022
+	Operating Systems (ENGR-E319/519, CSCI-P436/536)| Associate Instructor | 		Spring 2023
+	Distributed Systems (ENGR-E510, CSCI-B534)   	| Associate Instructor | 	Spring 2022, Spring 2021
+	Cloud Computing (ENGR-E516)	   					| Associate Instructor |   Fall 2021, Fall 2020, Fall 2019
 
 ---
 
@@ -94,5 +94,6 @@ High-Performance Computing | Associate Instructor | 		Spring 2024
 
 ## References
 
-* [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307), Dept. of Intelligent Systems Engineering, Indiana University Bloomington
-* [Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/), Dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
+Contact information available upon request:
+	* [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307), Dept. of Intelligent Systems Engineering, Indiana University Bloomington
+	* [Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/), Dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
