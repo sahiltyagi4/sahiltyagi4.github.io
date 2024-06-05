@@ -37,11 +37,11 @@ Outside of research, I'm also an amateur photographer mainly shooting wildlife a
 	1. **Tyagi, S.**, & Swany, M. (2022). ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (Big Data), 2113-2122 *(Accep. rate 19.2%)*[[pdf]](files/scadles.pdf).
 	1. **Tyagi, S.**, & Sharma, P. (2020). Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching. 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 188-194 *(Accep. rate 25%)*[[pdf]](files/resource_taming.pdf).
 	1. Widanage, C., Li, J., **Tyagi, S.**, Teja, R., Peng, B., Kamburugamuve, S., Baum, D., Smith, D., Qiu, J., & Koskey, J. (2019). Anomaly Detection over Streaming Data: Indy500 Case Study. 2019 IEEE 12th International Conference on Cloud Computing (CLOUD), 9-16 *(Accep. rate 20%)*[[pdf]](files/indy500.pdf).
-	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2017). Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (e-Science), 403-412 *(Accep. rate 36%)*[[pdf]](files/collaborative_escience.pdf).<br /><br/><br/>
+	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2017). Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (e-Science), 403-412 *(Accep. rate 36%)*[[pdf]](files/collaborative_escience.pdf).<br /><br/>
 
 - **Poster Presentations**
-	1. **Tyagi, S.** (2023). Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW), 349-350.
-	1. **Tyagi, S.**, & Swany, M. (2023). Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops), 56-57.<br /><br/><br/>
+	1. **Tyagi, S.** (2023). Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW), 349-350[[pdf]](files/scavenger_poster.pdf).
+	1. **Tyagi, S.**, & Swany, M. (2023). Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops), 56-57[[pdf]](files/selsync_poster.pdf).<br /><br/>
 
 - **Journal articles**
 	1. **Tyagi, S.**, & Sharma, P., “OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Systems,” (in preparation), 2024.
@@ -51,7 +51,7 @@ Outside of research, I'm also an amateur photographer mainly shooting wildlife a
 
 ## Teaching Experience
 
-Course 			   		   |         Role 		  | 			Term
+         Course 		   |         Role 		  | 			Term
 ---------------------------|---------------------------------------------------------
 High-Performance Computing | Associate Instructor | 		Spring 2024
     Computer Networks 	   | Associate Instructor | 	Fall 2023, Fall 2022
