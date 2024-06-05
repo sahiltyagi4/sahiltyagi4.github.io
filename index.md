@@ -92,6 +92,16 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 
 ---
 
+## Work Experience
+
+* **2018-2024**: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
+* **2017-2018**: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
+* **2016-2017**: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
+* **2015-2016**: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
+* **2013-2015**: *Software Engineer*, Tatras Data Limited, New Delhi, India.
+
+---
+
 ## References
 
 - Contact information available upon request:
