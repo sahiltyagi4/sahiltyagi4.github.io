@@ -67,7 +67,7 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 
 ---
 
-## Awards and Achievements
+## Awards
 - *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
 - *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
