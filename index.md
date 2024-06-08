@@ -83,6 +83,7 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 1. **12/23**: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
 1. **11/23**: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
 1. **11/23**: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA.
+1. **9/23**: Invited talk in the Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
 1. **07/23**: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[pdf]](files/gravac_talk.pdf).
 1. **05/23**: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_talk.pdf).
 1. **05/23**: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India.
