@@ -29,21 +29,21 @@ Outside of research, I'm also an amateur photographer mainly shooting wildlife a
 ## Publications
 
 - **Conference Proceedings**
-	1. **Tyagi, S.**, & Swany, M. (2023). Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (BigData), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
-	1. **Tyagi, S.**, & Swany, M. (2023). Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (CLUSTER), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
-	1. **Tyagi, S.**, & Swany, M. (2023). GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (CLOUD), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
-	1. **Tyagi, S.**, & Sharma, P. (2023). Scavenger: A Cloud Service For Optimizing Cost and Performance of ML Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 403-413 *(Accpt. rate 21%)* [[pdf]](files/scavenger.pdf).
-	1. **Tyagi, S.**, & Swany, M. (2022). ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (Big Data), 2113-2122 *(Accpt. rate 19.2%)* [[pdf]](files/scadles.pdf).
-	1. **Tyagi, S.**, & Sharma, P. (2020). Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching. 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 188-194 *(Accpt. rate 25%)* [[pdf]](files/resource_taming.pdf).
-	1. Widanage, C., Li, J., **Tyagi, S.**, Teja, R., Peng, B., Kamburugamuve, S., Baum, D., Smith, D., Qiu, J., & Koskey, J. (2019). Anomaly Detection over Streaming Data: Indy500 Case Study. 2019 IEEE 12th International Conference on Cloud Computing (CLOUD), 9-16 *(Accpt. rate 20%)* [[pdf]](files/indy500.pdf).
-	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2017). Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (e-Science), 403-412 *(Accpt. rate 36%)* [[pdf]](files/collaborative_escience.pdf).<br /><br/>
+	1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
+	1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
+	1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
+	1. **Tyagi, S.**, & Sharma, P. Scavenger: A Cloud Service For Optimizing Cost and Performance of ML Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '23**), 403-413 *(Accpt. rate 21%)* [[pdf]](files/scavenger.pdf).
+	1. **Tyagi, S.**, & Swany, M. ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (**BigData '22**), 2113-2122 *(Accpt. rate 19.2%)* [[pdf]](files/scadles.pdf).
+	1. **Tyagi, S.**, & Sharma, P. Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching. 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (**ACSOS '20**), 188-194 *(Accpt. rate 25%)* [[pdf]](files/resource_taming.pdf).
+	1. Widanage, C., Li, J., **Tyagi, S.**, Teja, R., Peng, B., Kamburugamuve, S., Baum, D., Smith, D., Qiu, J., & Koskey, J. Anomaly Detection over Streaming Data: Indy500 Case Study. 2019 IEEE 12th International Conference on Cloud Computing (**CLOUD '19**), 9-16 *(Accpt. rate 20%)* [[pdf]](files/indy500.pdf).
+	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y. Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (**e-Science '17**), 403-412 *(Accpt. rate 36%)* [[pdf]](files/collaborative_escience.pdf).<br /><br/>
 
 - **Poster Presentations**
-	1. **Tyagi, S.** (2023). Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW), 349-350 [[pdf]](files/scavenger_poster.pdf).
-	1. **Tyagi, S.**, & Swany, M. (2023). Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops), 56-57 [[pdf]](files/selsync_poster.pdf).<br /><br/>
+	1. **Tyagi, S.** Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**CCGridW '23**), 349-350 [[pdf]](files/scavenger_poster.pdf).
+	1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).<br /><br/>
 
 - **Journal articles**
-	1. **Tyagi, S.**, & Sharma, P., “OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Systems,” (in preparation), 2024.
+	1. **Tyagi, S.**, & Sharma, P., “OmniLearn: A Framework for Distributed Data-Parallel Training over Heterogeneous Systems,” (in preparation), 2024.
 	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing, 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
 
 ---
