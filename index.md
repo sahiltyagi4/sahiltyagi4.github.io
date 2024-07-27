@@ -28,6 +28,7 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 ## Publications
 
 - **Conference Proceedings**
+	1. **Tyagi, S.**, & Swany, M. On Using Large-Batches in Federated Learning, (in preparation) 2024.
 	1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
@@ -42,7 +43,7 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 	1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).<br /><br/>
 
 - **Journal articles**
-	1. **Tyagi, S.**, & Sharma, P., “OmniLearn: A Framework for Distributed Data-Parallel Training over Heterogeneous Systems,” (in preparation), 2024.
+	1. **Tyagi, S.**, & Sharma, P., OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters, (under review) 2024.
 	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing, 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
 
 ---
