@@ -7,9 +7,9 @@ title: Sahil Tyagi
 
 > **I will graduate soon and currently surfing the job market for full-time research positions.**
 
-Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student in the Department of Intelligent Systems Engineering (majoring in Computer Engineering) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
+Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
 
-A systems researcher working at the intersection of Cloud Computing, Big Data, Distributed systems and ML. Currently, my research focuses on building efficient computation and communication models to scale AI from edge to cloud and HPC (working on topics like distributed deep learning, federated learning, gradient compression, stream processing, differential privacy, etc.).
+A researcher working at the intersection of deep learning, distributed systems and systems for ML/ML for systems. The focus of my Ph.D. studies is on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC). Currently working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
 
 Outside of research, I'm also an amateur photographer mainly shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some of my pictures.
 
@@ -17,12 +17,11 @@ Outside of research, I'm also an amateur photographer mainly shooting wildlife a
 
 ## Research Interests
 
-- Large-scale ML systems
 - Deep Learning
 - Federated Learning
 - Distributed Systems
-- Edge, Cloud and High-performance computing
-- Big Data analytics
+- Edge, Cloud and High-performance computing (HPC)
+- ML for systems, systems for ML
 
 ---
 
