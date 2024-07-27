@@ -5,7 +5,7 @@ title: Sahil Tyagi
 
 ## About Me
 
-> **I will graduate soon and currently surfing the job market for full-time research positions.**
+> **I will graduate soon and currently surfing the job market for full-time positions.**
 
 Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
 
