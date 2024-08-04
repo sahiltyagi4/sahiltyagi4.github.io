@@ -15,6 +15,13 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 
 ---
 
+## Education
+
+* _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
+* _B.Tech_, Electrical and Electronics Engineering, Guru Gobind Singh Indraprastha University, New Delhi, India.
+
+---
+
 ## Research Interests
 
 - Deep Learning
@@ -22,6 +29,24 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 - Distributed Systems
 - Edge, Cloud and High-performance computing (HPC)
 - ML for systems, systems for ML
+
+---
+
+## Work Experience
+
+* **2018-2024**: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
+* **2017-2018**: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
+* **2016-2017**: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
+* **2015-2016**: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
+* **2014-2015**: *Software Engineer*, Tatras Data Limited, New Delhi, India.
+
+---
+
+## Skills
+
+* Programming: Python, C, C++, Shell scripting, MPI, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
+* Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
+* Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud APIs (GCP, AWS, Azure)
 
 ---
 
@@ -91,16 +116,6 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 1. **12/22**: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[pdf]](files/scadles_talk.pdf).
 1. **07/20**: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[pdf]](files/resrctaming_talk.pdf).
 1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
-
----
-
-## Work Experience
-
-* **2018-2024**: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
-* **2017-2018**: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
-* **2016-2017**: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
-* **2015-2016**: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
-* **2014-2015**: *Software Engineer*, Tatras Data Limited, New Delhi, India.
 
 ---
 
