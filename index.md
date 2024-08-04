@@ -71,7 +71,7 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 * Programming: Python, C, C++, Shell scripting, MPI, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 * Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
 * Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud APIs (GCP, AWS, Azure)
-* Coursework: High-performance big-data systems, Deep learning systems, Operating systems, Logic design in computer engineering, Introduction to Intelligent systems, Bayesian machine learning, Computer vision, High-performance graph analytics
+* Graduate coursework: High-performance big-data systems, Deep learning systems, Operating systems, Logic design in computer engineering, Introduction to Intelligent systems, Bayesian machine learning, Computer vision, High-performance graph analytics
 
 ---
 
