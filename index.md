@@ -106,9 +106,4 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 
 ## References
 
-Available upon request.
-<!---
-- Contact information available upon request:
-	* [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307), Dept. of Intelligent Systems Engineering, Indiana University Bloomington, USA.
-	* [Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/), Dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
--->
+Available upon request..
