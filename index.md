@@ -42,14 +42,6 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 
 ---
 
-## Skills
-
-* Programming: Python, C, C++, Shell scripting, MPI, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
-* Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
-* Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud APIs (GCP, AWS, Azure)
-
----
-
 ## Publications
 
 - **Conference Proceedings**
@@ -71,6 +63,14 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 - **Journal articles**
 	1. **Tyagi, S.**, & Sharma, P., OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters, (under review) 2024.
 	1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing, 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
+
+---
+
+## Skills
+
+* Programming: Python, C, C++, Shell scripting, MPI, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
+* Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
+* Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud APIs (GCP, AWS, Azure)
 
 ---
 
