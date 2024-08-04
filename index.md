@@ -32,7 +32,7 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 
 ---
 
-## Work Experience
+## Industry Experience
 
 * **2018-2024**: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
 * **2017-2018**: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
