@@ -27,8 +27,9 @@ Outside of research, I'm an amateur photographer mainly shooting wildlife and sp
 - Deep Learning
 - Federated Learning
 - Distributed Systems
-- Edge, Cloud and High-performance computing (HPC)
-- ML for systems, systems for ML
+- Edge, Cloud and High-Performance Computing (HPC)
+- ML for Systems/Systems for ML
+- Intelligent Computing
 
 ---
 
