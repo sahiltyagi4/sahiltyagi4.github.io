@@ -11,7 +11,7 @@ Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by Dr. Marti
 
 A researcher working at the intersection of deep learning, distributed systems and systems for ML/ML for systems. The focus of my Ph.D. studies is on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC). Currently working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
 
-Outside of research, I'm an amateur photographer mainly shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
+Outside of research, I'm an amateur photographer mostly shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
 ---
 
