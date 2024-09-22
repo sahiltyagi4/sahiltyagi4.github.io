@@ -5,7 +5,7 @@ title: Sahil Tyagi
 
 ## About Me
 
-**A recent Ph.D. graduate looking for full-time positions in ML-systems. Kindly reach out if my expertise fits your positions.**
+**A recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please reach out if my expertise fits your positions...**
 
 Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
 
@@ -71,8 +71,8 @@ Outside of research, I'm an amateur photographer mostly shooting wildlife and sp
 
 * Programming: Python, C, Shell scripting, MPI, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 * Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
-* Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud APIs (GCP, AWS, Azure)
-* Graduate coursework: High-performance big-data systems, Deep learning systems, Operating systems, Logic design in computer engineering, Introduction to Intelligent systems, Bayesian machine learning, Computer vision, High-performance graph analytics
+* Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud computing (GCP, AWS, Azure)
+* Graduate coursework: High-performance big-data systems, Deep learning systems, Operating systems, Logic design in computer engineering, Introduction to Intelligent systems, Bayesian machine learning, Computer vision, High-performance graph analytics, Deep learning for hardware accelerators
 
 ---
 
