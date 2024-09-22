@@ -7,7 +7,7 @@ title: Sahil Tyagi
 
 **I am a recent PhD graduate in computer engineering currently surfing the job market for full-time positions.**
 
-Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
+Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering ([ISE](https://engineering.indiana.edu/index.html)) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington ([IUB](https://bloomington.iu.edu/index.html)).
 
 A researcher working at the intersection of deep learning, distributed systems and systems for ML/ML for systems. The focus of my Ph.D. studies is on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC). Currently working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
 
@@ -107,8 +107,8 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 
 ## Presentations and Talks
 
-1. **09/24**: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
-1. **09/24**: Invited talk, "Optimizing Compute and Communication for Deep Learning Systems", Analytics and AI Methods at Scale group (AAIMS), Oak Ridge National Laboratory (ORNL), Tennessee, USA.
+#1. **09/24**: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
+#1. **09/24**: Invited talk, "Optimizing Compute and Communication for Deep Learning Systems", Analytics and AI Methods at Scale group (AAIMS), Oak Ridge National Laboratory (ORNL), Tennessee, USA.
 1. **04/24**: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
 1. **12/23**: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
 1. **11/23**: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
