@@ -5,9 +5,9 @@ title: Sahil Tyagi
 
 ## About Me
 
-**I am a recent PhD graduate in computer engineering currently surfing the job market for full-time positions.**
+**A recent Ph.D. graduate looking for full-time positions in ML-systems. Kindly reach out if my expertise fits your positions.**
 
-Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering ([ISE](https://engineering.indiana.edu/index.html)) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington ([IUB](https://bloomington.iu.edu/index.html)).
+Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
 
 A researcher working at the intersection of deep learning, distributed systems and systems for ML/ML for systems. The focus of my Ph.D. studies is on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC). Currently working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
 
