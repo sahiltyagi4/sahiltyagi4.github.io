@@ -3,7 +3,7 @@ layout: default
 title: Sahil Tyagi
 ---
 
-## About Me
+> ## About Me
 
 <!--**A recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please feel free to reach out if my expertise fits your positions...**-->
 
@@ -11,20 +11,20 @@ title: Sahil Tyagi
 
 > I was previously advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
 
-I work at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My Ph.D. studies focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm exploring topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
+> I work at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My Ph.D. studies focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm exploring topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
 
-Outside of research, I'm an amateur photographer mostly shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
-
----
-
-## Education
-
-* _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
-* _B.Tech_, Electrical and Electronics Engineering, Guru Gobind Singh Indraprastha University, New Delhi, India.
+> Outside of research, I'm an amateur photographer mostly shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
 ---
 
-## Research Interests
+> ## Education
+
+> * _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
+> * _B.Tech_, Electrical and Electronics Engineering, Guru Gobind Singh Indraprastha University, New Delhi, India.
+
+---
+
+> ## Research Interests
 
 - Deep Learning
 - Federated Learning
@@ -35,7 +35,7 @@ Outside of research, I'm an amateur photographer mostly shooting wildlife and sp
 
 ---
 
-## Work Experience
+> ## Work Experience
 
 * **2018-2024**: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
 * **2017-2018**: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
@@ -45,7 +45,7 @@ Outside of research, I'm an amateur photographer mostly shooting wildlife and sp
 
 ---
 
-## Publications
+> ## Publications
 
 - **Conference Proceedings**
 	1. **Tyagi, S.**, & Swany, M. On Using Large-Batches in Federated Learning (in preparation).
@@ -69,7 +69,7 @@ Outside of research, I'm an amateur photographer mostly shooting wildlife and sp
 
 ---
 
-## Skills
+> ## Skills
 
 * Programming: Python, C, Shell scripting, MPI, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 * Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
@@ -78,7 +78,7 @@ Outside of research, I'm an amateur photographer mostly shooting wildlife and sp
 
 ---
 
-## Teaching Experience
+> ## Teaching Experience
 
 Course | Role | Term
 ----------------------------------------------------|----------------------|-----------------------------------
@@ -90,14 +90,14 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 
 ---
 
-## Professional Services
+> ## Professional Services
 - [*USENIX OSDI 2024*](https://www.usenix.org/conference/osdi24/call-for-artifacts) (Artifact evaluation committee)
 - [*USNIX ATC 2024*](https://www.usenix.org/conference/atc24/call-for-artifacts) (Artifact evaluation committee)
 - [*IEEE CLUSTER 2024*](https://clustercomp.org/2024/) (Technical program committee)
 
 ---
 
-## Awards
+> ## Awards
 - *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
 - *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
@@ -107,24 +107,24 @@ High-Performance Computing (ENGR-E317/517)			| Associate Instructor | 		Spring 2
 
 ---
 
-## Presentations and Talks
+> ## Presentations and Talks
 
 <!--1. **09/24**: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
 1. **09/24**: Invited talk, "Optimizing Compute and Communication for Deep Learning Systems", Analytics and AI Methods at Scale group (AAIMS), Oak Ridge National Laboratory (ORNL), Tennessee, USA.-->
-1. **04/24**: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
-1. **12/23**: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
-1. **11/23**: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
-1. **11/23**: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_poster.pdf).
-1. **09/23**: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
-1. **07/23**: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[pdf]](files/gravac_talk.pdf).
-1. **05/23**: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_talk.pdf).
-1. **05/23**: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_poster.pdf).
-1. **12/22**: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[pdf]](files/scadles_talk.pdf).
-1. **07/20**: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[pdf]](files/resrctaming_talk.pdf).
-1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
+> 1. **04/24**: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
+> 1. **12/23**: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
+> 1. **11/23**: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
+> 1. **11/23**: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_poster.pdf).
+> 1. **09/23**: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
+> 1. **07/23**: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[pdf]](files/gravac_talk.pdf).
+> 1. **05/23**: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_talk.pdf).
+> 1. **05/23**: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACMInternational Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_poster.pdf).
+> 1. **12/22**: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[pdf]](files/scadles_talk.pdf).
+> 1. **07/20**: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[pdf]](files/resrctaming_talk.pdf).
+> 1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
 
 ---
 
-## References
+> ## References
 
-	Available upon request..
+	> Available upon request..
