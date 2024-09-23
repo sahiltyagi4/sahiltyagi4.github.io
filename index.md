@@ -5,11 +5,13 @@ title: Sahil Tyagi
 
 ## About Me
 
-**A recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please feel free to reach out if my expertise fits your positions...**
+<!--**A recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please feel free to reach out if my expertise fits your positions...**-->
 
-Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
+**Hello! I'm Sahil (pronounced as 'saa-hill'), a recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please feel free to reach out if my expertise fits your positions...**
 
-A researcher working at the intersection of deep learning, distributed systems and systems for ML/ML for systems. The focus of my Ph.D. studies is on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC). Currently working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
+I was previously advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
+
+I work at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My Ph.D. studies focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm exploring topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
 
 Outside of research, I'm an amateur photographer mostly shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
