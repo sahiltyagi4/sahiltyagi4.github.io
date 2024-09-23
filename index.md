@@ -19,7 +19,7 @@ title: Sahil Tyagi
 
 > ## Education
 
-> * _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
+> * _Ph.D._, Intelligent Systems Engineering (Major: Computer Engineering), Indiana University Bloomington, USA.
 > * _B.Tech_, Electrical and Electronics Engineering, Guru Gobind Singh Indraprastha University, New Delhi, India.
 
 ---
