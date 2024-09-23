@@ -5,7 +5,7 @@ title: Sahil Tyagi
 
 ## About Me
 
-**A recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please reach out if my expertise fits your positions...**
+**A recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please feel free to reach out if my expertise fits your positions...**
 
 Hello! I'm Sahil (pronounced as 'saa-hill'), a grad student advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
 
