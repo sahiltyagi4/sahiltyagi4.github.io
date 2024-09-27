@@ -3,7 +3,7 @@ layout: default
 title: Sahil Tyagi
 ---
 
-> [<u>My CV</u>>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing)
+> [<u>My CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing)
 
 > ## About Me
 
