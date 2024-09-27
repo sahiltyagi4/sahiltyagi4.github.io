@@ -15,7 +15,7 @@ title: Sahil Tyagi
 
 > Outside of research, I'm an amateur photographer mostly shooting wildlife and space. [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
-> Here's my [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing)
+> Here's my [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing).
 
 ---
 
