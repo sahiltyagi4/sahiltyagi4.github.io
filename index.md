@@ -28,7 +28,7 @@ title: Sahil Tyagi
 
 > ## News
 
-> -- [Sept. 2024] I successfully defended my Ph.D. dissertation.
+> -- [09/2024] I successfully defended my Ph.D. dissertation!
 
 ---
 
