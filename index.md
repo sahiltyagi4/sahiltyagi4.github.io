@@ -3,6 +3,8 @@ layout: default
 title: Sahil Tyagi
 ---
 
+> [CV](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing)
+
 > ## About Me
 
 <!--**A recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please feel free to reach out if my expertise fits your positions...**-->
@@ -19,8 +21,14 @@ title: Sahil Tyagi
 
 > ## Education
 
-> * _Ph.D._, Intelligent Systems Engineering (Computer Engineering major), Indiana University Bloomington, USA.
+> * _Ph.D._, Intelligent Systems (Major: Computer Engineering), Indiana University Bloomington, USA.
 <!-- * _B.Tech_, Electrical and Electronics Engineering, Guru Gobind Singh Indraprastha University, New Delhi, India.-->
+
+---
+
+> ## News
+
+> -- [Sept. 2024] I successfully defended my Ph.D. dissertation.
 
 ---
 
@@ -31,7 +39,6 @@ title: Sahil Tyagi
 > - Distributed Systems
 > - Edge, Cloud and High-Performance Computing (HPC)
 > - ML for Systems/Systems for ML
-> - Intelligent Computing
 
 ---
 

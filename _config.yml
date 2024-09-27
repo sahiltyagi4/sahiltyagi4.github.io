@@ -20,7 +20,7 @@ include: ["_includes"]
 nav:
  - name: "About"
    link: "/"
- - name: "CV"
-   link: "sahil_tyagiCV.pdf"
- - name: "Socials"
+ #- name: "CV"
+  # link: "webpage_CV.pdf"
+ - name: "Contact"
    link: "contact"
