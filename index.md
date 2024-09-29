@@ -74,7 +74,7 @@ title: Sahil Tyagi
 
 > - **Journal articles**
 	> 1. **Tyagi, S.**, & Sharma, P., OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters, (under review) 2024.
-	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing, 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
+	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
 
 ---
 
