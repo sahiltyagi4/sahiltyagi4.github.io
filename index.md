@@ -118,8 +118,8 @@ title: Sahil Tyagi
 
 > ## Presentations and Talks
 
-<!--1. **09/24**: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
-1. **09/24**: Invited talk, "Optimizing Compute and Communication for Deep Learning Systems", Analytics and AI Methods at Scale group (AAIMS), Oak Ridge National Laboratory (ORNL), Tennessee, USA.-->
+<!--1. **09/24**: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.-->
+1. **09/24**: Invited talk, "Optimizing Compute and Communication for Deep Learning Systems", Analytics and AI Methods at Scale group (AAIMS), Oak Ridge National Laboratory (ORNL), Tennessee, USA.
 > 1. **04/24**: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
 > 1. **12/23**: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
 > 1. **11/23**: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
