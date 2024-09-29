@@ -18,9 +18,9 @@ sass:
 include: ["_includes"]
 
 nav:
- - name: "About"
-   link: "/"
+ #- name: "About"
+  # link: "/"
  #- name: "CV"
   # link: "webpage_CV.pdf"
- - name: "Contact"
+ - name: "Contact & Links"
    link: "contact"
