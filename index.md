@@ -15,7 +15,7 @@ title: Sahil Tyagi
 
 > Prior to grad school, I hold over 4 years of experience in software industry, with positions ranging from software engineer to data scientist (so 10+ years in research and software development).
 
-> Outside of work, I enjoy long walks, hikes and photography (mostly wildlife and trying to get more into space). [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
+> Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space). [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
 > And here's my [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing).
 
