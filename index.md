@@ -80,7 +80,7 @@ title: Sahil Tyagi
 
 > ## Skills
 
-> * Programming: Python, C, Shell scripting, MPI, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
+> * Programming: Python, C, Shell scripting, MPI, OpenMP, OpenSHMEM, CUDA, Java, Scala, R, MATLAB, SQL
 > * Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
 > * Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud computing (GCP, AWS, Azure)
 > * Graduate coursework: High-performance big-data systems, Deep learning systems, Operating systems, Logic design in computer engineering, Introduction to Intelligent systems, Bayesian machine learning, Computer vision, High-performance graph analytics, Deep learning for hardware accelerators
