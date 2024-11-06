@@ -30,7 +30,7 @@ title: Sahil Tyagi
 
 > ## News
 
-> -- [09/2024] I successfully defended my Ph.D. dissertation!
+> -- [09/2024] Successfully defended Ph.D. dissertation!
 
 ---
 
@@ -90,11 +90,11 @@ title: Sahil Tyagi
 
 > Course | Role | Term
 > ----------------------------------------------------|----------------------|-----------------------------------
-> High-Performance Computing (ENGR-E317/517)		  | Associate Instructor | 		Spring 2024
->     Computer Networks (ENGR-E318/518, CSCI-P438/538)| Associate Instructor | 	Fall 2024, Fall 2023, Fall 2022
-> 	Operating Systems (ENGR-E319/519, CSCI-P436/536)  | Associate Instructor | 		Spring 2023
-> 	Distributed Systems (ENGR-E510, CSCI-B534)   	  | Associate Instructor | 	Spring 2022, Spring 2021
-> 	Cloud Computing (ENGR-E516)	   					  | Associate Instructor |   Fall 2021, Fall 2020, Fall 2019
+> High-Performance Computing (ENGR-E317/517)		  | Teaching Assistant 	 | 		Spring 2024
+>     Computer Networks (ENGR-E318/518, CSCI-P438/538)| Teaching Assistant 	 | 	Fall 2024, Fall 2023, Fall 2022
+> 	Operating Systems (ENGR-E319/519, CSCI-P436/536)  | Teaching Assistant 	 | 		Spring 2023
+> 	Distributed Systems (ENGR-E510, CSCI-B534)   	  | Teaching Assistant 	 | 	Spring 2022, Spring 2021
+> 	Cloud Computing (ENGR-E516)	   					  | Teaching Assistant 	 |   Fall 2021, Fall 2020, Fall 2019
 
 ---
 
