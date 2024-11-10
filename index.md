@@ -49,7 +49,7 @@ title: Sahil Tyagi
 > * _2018-2024_: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
 > * _2017-2018_: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
 > * _2016-2017_: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
-> * **2015-2016_: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
+> * _2015-2016_: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
 > * _2014-2015_: *Software Engineer*, Tatras Data Limited, New Delhi, India.
 
 ---
