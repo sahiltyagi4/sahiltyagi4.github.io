@@ -17,7 +17,7 @@ title: Sahil Tyagi
 
 > Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space). [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
-> And here's my [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing).
+> Here's a copy of my [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
 
 ---
 
@@ -46,11 +46,11 @@ title: Sahil Tyagi
 
 > ## Work Experience
 
-> * **2018-2024**: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
-> * **2017-2018**: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
-> * **2016-2017**: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
-> * **2015-2016**: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
-> * **2014-2015**: *Software Engineer*, Tatras Data Limited, New Delhi, India.
+> * _2018-2024_: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
+> * _2017-2018_: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
+> * _2016-2017_: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
+> * **2015-2016_: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
+> * _2014-2015_: *Software Engineer*, Tatras Data Limited, New Delhi, India.
 
 ---
 
@@ -79,15 +79,19 @@ title: Sahil Tyagi
 
 > ## Skills
 
-> * Programming: Python, C, Shell scripting, MPI, OpenMP, OpenSHMEM, CUDA, Java, Scala, R, MATLAB, SQL
-> * Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
-> * Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud computing (GCP, AWS, Azure)
+> * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
+> * _Databases_: MySQL, MSSQL, SQLite, HBase, Neo4j
+> * _Virtualization_: Docker, Kubernetes
+> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Elasticsearch, Slurm, MPI
+> * _ML libraries_: PyTorch, TensorFlow, Keras, MXNet, DeepSpeed, Hugging Face
+> * _Cloud computing_: Google (GCP), Amazon (AWS)
+> * _Writing_: LaTex typesetting
 
 ---
 
 > ## Teaching Experience
 
-> Course | Role | Term
+> Course 											  | Role 				 | Term
 > ----------------------------------------------------|----------------------|-----------------------------------
 > High-Performance Computing (ENGR-E317/517)		  | Teaching Assistant 	 | 		Spring 2024
 >     Computer Networks (ENGR-E318/518, CSCI-P438/538)| Teaching Assistant 	 | 	Fall 2024, Fall 2023, Fall 2022
@@ -98,7 +102,7 @@ title: Sahil Tyagi
 ---
 
 > ## Professional Services
-- **2024**: USENIX OSDI (AEC), USENIX ATC (AEC), IEEE CLUSTER (TPC)
+- _2024_: USENIX OSDI (AEC), USENIX ATC (AEC), IEEE CLUSTER (TPC)
 
 ---
 
@@ -114,18 +118,18 @@ title: Sahil Tyagi
 
 > ## Presentations and Talks
 
-> 1. **09/24**: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
-> 1. **09/24**: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Analytics and AI Methods at Scale group (AAIMS), Oak Ridge National Laboratory (ORNL), Tennessee, USA.
-> 1. **04/24**: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
-> 1. **12/23**: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
-> 1. **11/23**: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
-> 1. **11/23**: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_poster.pdf).
-> 1. **09/23**: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
-> 1. **07/23**: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[pdf]](files/gravac_talk.pdf).
-> 1. **05/23**: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_talk.pdf).
-> 1. **05/23**: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_poster.pdf).
-> 1. **12/22**: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[pdf]](files/scadles_talk.pdf).
-> 1. **07/20**: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[pdf]](files/resrctaming_talk.pdf).
-> 1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
+> 1. _09/24_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
+> 1. _09/24_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Analytics and AI Methods at Scale group (AAIMS), Oak Ridge National Laboratory (ORNL), Tennessee, USA.
+> 1. _04/24_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
+> 1. _12/23_: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
+> 1. _11/23_: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
+> 1. _11/23_: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_poster.pdf).
+> 1. _09/23_: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
+> 1. _07/23_: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[pdf]](files/gravac_talk.pdf).
+> 1. _05/23_: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_talk.pdf).
+> 1. _05/23_: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_poster.pdf).
+> 1. _12/22_: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[pdf]](files/scadles_talk.pdf).
+> 1. _07/20_: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[pdf]](files/resrctaming_talk.pdf).
+> 1. _11/18_: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
 
 ---
