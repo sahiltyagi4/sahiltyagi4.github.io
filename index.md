@@ -15,7 +15,7 @@ title: Sahil Tyagi
 
 > Prior to grad school, I hold over 4 years of experience in software industry, with positions ranging from software engineer to data scientist (so 10+ years in research and software development).
 
-> Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space). [Here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
+> Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space); [here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
 > Here's a copy of my [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
 
@@ -23,14 +23,14 @@ title: Sahil Tyagi
 
 > ## Education
 
-> * _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
-<!-- * _B.Tech_, Electrical and Electronics Engineering, Guru Gobind Singh Indraprastha University, New Delhi, India.-->
+> * _Doctor of Philosophy_, Intelligent Systems Engineering, Indiana University Bloomington, USA.
+> * _Bachelor of Technology_, Electrical and Electronics Engineering, IP University, New Delhi, India.
 
 ---
 
 > ## News
 
-> -- [09/2024] Successfully defended Ph.D. dissertation!
+> -- [_09/2024_] Successfully defended Ph.D. dissertation!
 
 ---
 
