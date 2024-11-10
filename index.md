@@ -23,7 +23,7 @@ title: Sahil Tyagi
 
 > ## Education
 
-> * _Ph.D._, Intelligent Systems (Major: Computer Engineering), Indiana University Bloomington, USA.
+> * _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
 <!-- * _B.Tech_, Electrical and Electronics Engineering, Guru Gobind Singh Indraprastha University, New Delhi, India.-->
 
 ---
@@ -54,10 +54,10 @@ title: Sahil Tyagi
 
 ---
 
+<!-- 1. **Tyagi, S.**, & Swany, M. On Using Large-Batches in Federated Learning (in preparation).-->
 > ## Publications
 
 > - **Conference Proceedings**
-	> 1. **Tyagi, S.**, & Swany, M. On Using Large-Batches in Federated Learning (in preparation).
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
@@ -82,7 +82,6 @@ title: Sahil Tyagi
 > * Programming: Python, C, Shell scripting, MPI, OpenMP, OpenSHMEM, CUDA, Java, Scala, R, MATLAB, SQL
 > * Databases: MySQL, MSSQL, SQLite, HBase, Neo4j
 > * Frameworks/Libraries: PyTorch, TensorFlow, Keras, MXNet, Hadoop, Spark, Storm, Kafka, Elasticsearch, Slurm, Cloud computing (GCP, AWS, Azure)
-> * Graduate coursework: High-performance big-data systems, Deep learning systems, Operating systems, Logic design in computer engineering, Introduction to Intelligent systems, Bayesian machine learning, Computer vision, High-performance graph analytics, Deep learning for hardware accelerators
 
 ---
 
@@ -130,7 +129,3 @@ title: Sahil Tyagi
 > 1. **11/18**: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
 
 ---
-
-> ## References
-
-> Available upon request..
