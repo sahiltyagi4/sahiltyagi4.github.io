@@ -81,7 +81,7 @@ title: Sahil Tyagi
 
 > * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 > * _Databases_: MySQL, MSSQL, SQLite, HBase, Neo4j
-> * _Virtualization_: Docker, Kubernetes
+> * _Containerization_: Docker, Kubernetes
 > * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Elasticsearch, Slurm, MPI
 > * _ML libraries_: PyTorch, TensorFlow, Keras, MXNet, DeepSpeed, Hugging Face
 > * _Cloud computing_: Google (GCP), Amazon (AWS)
