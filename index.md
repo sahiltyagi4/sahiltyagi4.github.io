@@ -77,7 +77,7 @@ title: Sahil Tyagi
 
 ---
 
-> ## Skills
+> ## Technical Skills
 
 > * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 > * _Databases_: MySQL, MSSQL, SQLite, HBase, Neo4j
