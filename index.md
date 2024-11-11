@@ -85,7 +85,7 @@ title: Sahil Tyagi
 > * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Elasticsearch, Slurm, MPI
 > * _ML libraries_: PyTorch, TensorFlow, Keras, MXNet, DeepSpeed, Hugging Face
 > * _Cloud computing_: Google (GCP), Amazon (AWS)
-> * _Writing_: LaTex typesetting
+> * _Writing_: LaTex typesetting for project reports, academic grants, conference and journal articles
 
 ---
 
