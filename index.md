@@ -116,7 +116,7 @@ title: Sahil Tyagi
 
 ---
 
-> ## Presentations and Talks
+> ## Talks and Presentations
 
 > 1. _09/24_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
 > 1. _09/24_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
