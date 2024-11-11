@@ -110,7 +110,7 @@ title: Sahil Tyagi
 - *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
 - *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
-- *Best early-career researcher poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](files/ccgrid23_postercertificate.pdf).
+- *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](files/ccgrid23_postercertificate.pdf).
 - *Google Cloud Student Researcher (2021, 2022)*: Received GCP credits for research.
 - *Student Research Award*: Funded via NSF grant Data Infrastructure Building Blocks (DiBBS) 17-500, for the academic year 2018-2019.
 
