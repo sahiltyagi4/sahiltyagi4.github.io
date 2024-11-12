@@ -13,7 +13,7 @@ title: Sahil Tyagi
 
 > I work at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My Ph.D. studies focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm exploring topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
 
-> Prior to grad school, I hold over 4 years of experience in software industry, with positions ranging from software engineer to data scientist (so 10+ years in research and software development).
+> Prior to grad school, I hold over 4 years of experience in software industry, with positions ranging from software engineer to data scientist (~ 10 years in research and software development).
 
 > Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space); [here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
