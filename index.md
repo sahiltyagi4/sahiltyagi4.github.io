@@ -111,7 +111,7 @@ title: Sahil Tyagi
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
 - *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](files/ccgrid23_postercertificate.pdf).
 - *Google Cloud Student Researcher (2021, 2022)*: Received GCP credits for research.
-- *Student Funding*: Partially funded in grad school via NSF grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
+- *Student Funding*: Partially funded in grad school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 
 ---
 
