@@ -115,8 +115,6 @@ title: Sahil Tyagi
 - *Google Cloud Student Researcher (2021, 2022)*: Received GCP credits for research.
 - *Student Funding*: Partially funded in grad school via NSF grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 
-Funded via NSF grant Data Infrastructure Building Blocks (DiBBS) 17-500, for the academic year 2018-2019.
-
 ---
 
 > ## Talks and Presentations
