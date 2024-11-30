@@ -90,7 +90,7 @@ title: Sahil Tyagi
 
 > ## Teaching Experience
 
-> Course 											  | Role 				 | Term
+> Course (@Indiana University Bloomington) 			  | Role 				 | Term
 > ----------------------------------------------------|----------------------|-----------------------------------
 > High-Performance Computing (ENGR-E317/517)		  | Teaching Assistant 	 | 		Spring 2024
 >     Computer Networks (ENGR-E318/518, CSCI-P438/538)| Teaching Assistant 	 | 	Fall 2024, Fall 2023, Fall 2022
