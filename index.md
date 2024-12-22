@@ -29,7 +29,9 @@ title: Sahil Tyagi
 
 > ## News
 
-> -- [_09/2024_] Successfully defended Ph.D. dissertation!
+> -- [_12/2024_] Graduated from IUB with my Ph.D. [[link1]](pictures/luddy_gradwalk.pdf), [[link2]](pictures/iu_gradwalk.pdf)
+
+> -- [_09/2024_] Successfully defended my dissertation
 
 ---
 
