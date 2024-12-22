@@ -29,7 +29,7 @@ title: Sahil Tyagi
 
 > ## News
 
-> -- [_12/2024_] Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk.jpg)
+> -- [_12/2024_] Graduated from Indiana University Bloomington [[link]](pictures/luddy_gradwalk.jpg)
 
 > -- [_09/2024_] Successfully defended my dissertation
 
