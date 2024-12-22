@@ -29,7 +29,7 @@ title: Sahil Tyagi
 
 > ## News
 
-> -- [_12/2024_] Graduated from IUB with my Ph.D. [[link1]](pictures/luddy_gradwalk.jpg), [[link2]](pictures/iu_gradwalk.pdf)
+> -- [_12/2024_] Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk.jpg), [[link2]](pictures/iu_gradwalk.pdf)
 
 > -- [_09/2024_] Successfully defended my dissertation
 
