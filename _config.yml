@@ -1,5 +1,5 @@
 remote_theme: ankitsultana/researcher@gem
-title: Sahil Tyagi's Homepage
+title: Sahil Tyagi
 baseurl: "/"
 
 markdown: kramdown
@@ -22,5 +22,5 @@ nav:
   # link: "/"
  #- name: "CV"
   # link: "webpage_CV.pdf"
- - name: "Contact & Links"
+ - name: "Contact & Socials"
    link: "contact"
