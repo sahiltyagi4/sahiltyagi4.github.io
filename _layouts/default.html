@@ -1,8 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+    <style>
+        .title-container {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+    
+        .theme-button {
+            padding: 5px 10px;
+            font-size: 14px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            margin-left: 10px;
+        }
+
+        .theme-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <<meta charset="UTF-8">
     <meta name="viewport">
     <title>Switch to Light Mode</title>
     <link rel="stylesheet" href="styles.css">
@@ -68,9 +89,6 @@
     {% endif %}
 </head>
 <body bgcolor='#eeeeee'>
-    <div class="container">
-        <button id="theme-toggle">Switch to Light Mode</button>
-    </div>
     <script src="script.js"></script>
     <div class="wrapper">
         <div class="navbar container">
@@ -97,11 +115,11 @@
         {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
-            <div class = "container content">
+            <div class="container content">
+                <div class="title-container">
                     {% include top-content.html %}
-                <!-- <img class="profile-picture" src={{site.profile_picture_path}} />
-                
-                    {{site.profile_details}} -->
+                    <button id="theme-toggle" class="theme-button">Switch Theme</button>
+                </div>
             </div>
         {% endif %}
                 {{ content }}
