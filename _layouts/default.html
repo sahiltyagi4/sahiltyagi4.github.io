@@ -89,7 +89,6 @@
     {% endif %}
 </head>
 <body bgcolor='#eeeeee'>
-    <script src="script.js"></script>
     <div class="wrapper">
         <div class="navbar container">
             {% if site.ins_logo %}
@@ -120,6 +119,7 @@
                     {% include top-content.html %}
                     <button id="theme-toggle" class="theme-button">Switch Theme</button>
                 </div>
+                <script src="script.js"></script>
             </div>
         {% endif %}
                 {{ content }}
