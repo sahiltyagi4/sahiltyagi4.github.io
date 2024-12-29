@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Sahil Tyagi](https://sahiltyagi4.github.io)
+title: <span style="color: red;">Sahil Tyagi</span>
 ---
 
 > ## About Me
