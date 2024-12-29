@@ -13,7 +13,7 @@ title: Sahil Tyagi
 
 > Prior to grad school, I hold extensive experience in the technology industry. Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space); [here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
-> [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
+> [<u>My CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
 
 ---
 
