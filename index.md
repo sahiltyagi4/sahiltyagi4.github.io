@@ -9,13 +9,11 @@ title: Sahil Tyagi
 
 > During my graduate studies, I was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB).
 
-> I work at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My Ph.D. studies focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm exploring topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy.
+> I work at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My Ph.D. studies focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm exploring topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. My research has been published and presented at leading conference venues and research groups across the world.
 
-> Prior to grad school, I hold over 4 years of experience in software industry, with positions ranging from software engineer to data scientist (~ 10 years in research and software development).
+> Prior to grad school, I hold extensive experience in the technology industry. Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space); [here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
-> Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space); [here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
-
-> Here's a copy of my [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
+> [<u>CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
 
 ---
 
