@@ -61,6 +61,10 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Light and Dark Mode</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body bgcolor='#eeeeee'>
     <div class="wrapper">
@@ -116,6 +120,11 @@
     {% endif %}
     <br/>
     <a href="https://info.flagcounter.com/tGWj"><img src="https://s11.flagcounter.com/count/tGWj/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    <div class="container">
+        <h1>Light and Dark Mode Toggle</h1>
+        <button id="theme-toggle">Switch to Dark Mode</button>
+    </div>
+    <script src="script.js"></script>
 </body>
 <footer>
 </footer>
