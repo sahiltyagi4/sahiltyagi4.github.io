@@ -5,7 +5,7 @@ const body = document.body;
 const currentTheme = localStorage.getItem('theme');
 if (currentTheme === 'dark') {
   body.classList.add('dark-mode');
-  toggleButton.textContent = 'Switch to Light Mode';
+  toggleButton.textContent = 'Light Mode';
 }
 
 toggleButton.addEventListener('click', () => {
@@ -13,10 +13,10 @@ toggleButton.addEventListener('click', () => {
   
   // Update button text based on the theme
   if (body.classList.contains('dark-mode')) {
-    toggleButton.textContent = 'Switch to Light Mode';
+    toggleButton.textContent = 'Light Mode';
     localStorage.setItem('theme', 'dark');
   } else {
-    toggleButton.textContent = 'Switch to Dark Mode';
+    toggleButton.textContent = 'Dark Mode';
     localStorage.setItem('theme', 'light');
   }
 });
