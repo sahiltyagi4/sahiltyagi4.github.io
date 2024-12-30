@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <span style="color: red;">Sahil Tyagi</span>
+title: <span class="site-title">Sahil Tyagi</span>
 ---
 
 > ## About Me

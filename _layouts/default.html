@@ -2,6 +2,15 @@
 <html lang="en">
 <head>
     <style>
+        .site-title {
+            color: #FF4136; /* Default red color in light mode */
+            transition: color 0.3s ease;
+        }
+
+        body.dark-mode .site-title {
+            color: #FF725C; /* Slightly lighter red in dark mode for better visibility */
+        }
+
         .theme-button {
             background: none;
             border: none;
@@ -19,17 +28,16 @@
 
         .sun-icon {
             display: none;
-            color: #000000;
+            color: #FF725C; /* Match the dark mode title color */
         }
 
         .moon-icon {
             display: block;
-            color: #000000;
+            color: #FF4136; /* Match the light mode title color */
         }
 
         body.dark-mode .sun-icon {
             display: block;
-            color: #ffffff;
         }
 
         body.dark-mode .moon-icon {
