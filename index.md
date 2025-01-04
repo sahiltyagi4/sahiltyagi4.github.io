@@ -80,7 +80,7 @@ title: <span class="site-title">Sahil Tyagi</span>
 > * _Databases_: MySQL, MSSQL, SQLite, HBase, Neo4j
 > * _Containerization_: Docker, Kubernetes
 > * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Slurm, MPI
-> * _ML libraries_: PyTorch, TensorFlow, Keras, MXNet, DeepSpeed, Hugging Face
+> * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
 > * _Cloud computing_: Google (GCP), Amazon (AWS)
 <!-- * _Writing_: LaTex typesetting for project reports, academic grants, conference and journal articles-->
 
@@ -106,7 +106,7 @@ title: <span class="site-title">Sahil Tyagi</span>
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
 - *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
 - *Google Cloud Student Researcher (2021, 2022)*: Received Google Cloud credits for research.
-- *Student Funding*: Partially funded in grad school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
+- *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 
 ---
 
