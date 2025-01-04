@@ -79,10 +79,10 @@ title: <span class="site-title">Sahil Tyagi</span>
 > * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 > * _Databases_: MySQL, MSSQL, SQLite, HBase, Neo4j
 > * _Containerization_: Docker, Kubernetes
-> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Elasticsearch, Slurm, MPI
+> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Slurm, MPI
 > * _ML libraries_: PyTorch, TensorFlow, Keras, MXNet, DeepSpeed, Hugging Face
 > * _Cloud computing_: Google (GCP), Amazon (AWS)
-> * _Writing_: LaTex typesetting for project reports, academic grants, conference and journal articles
+<!-- * _Writing_: LaTex typesetting for project reports, academic grants, conference and journal articles-->
 
 ---
 
