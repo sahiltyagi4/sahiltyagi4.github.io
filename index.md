@@ -96,8 +96,8 @@ title: <span class="site-title">Sahil Tyagi</span>
 ---
 
 > ## Professional Services
-- _2024_: USENIX OSDI (AEC), USENIX ATC (AEC), IEEE CLUSTER (TPC), JPDC (Reviewer)
-- _2025_: IJCNN (Reviewer)
+- _2024_: Reviewer for USENIX OSDI, USENIC ATC, IEEE CLUSTER, JPDC
+- _2025_: Reviewer for IJCNN
 
 ---
 
