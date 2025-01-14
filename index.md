@@ -77,7 +77,7 @@ title: <span class="site-title">Sahil Tyagi</span>
 > ## Technical Skills
 
 > * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
-> * _Databases_: MySQL, MSSQL, SQLite, HBase, Neo4j
+> * _Databases_: MySQL, HBase
 > * _Containerization_: Docker, Kubernetes
 > * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Slurm, MPI
 > * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
