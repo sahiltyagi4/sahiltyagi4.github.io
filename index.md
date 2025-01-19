@@ -36,7 +36,7 @@ title: <span class="site-title">Sahil Tyagi</span>
 > - Deep Learning
 > - Federated Learning
 > - Distributed Systems
-> - Edge, Cloud and High-Performance Computing (HPC)
+> - Cloud and High-Performance Computing (HPC)
 > - ML for Systems/Systems for ML
 
 ---
