@@ -54,7 +54,7 @@ title: <span class="site-title">Sahil Tyagi</span>
 <!-- 1. **Tyagi, S.**, & Swany, M. On Using Large-Batches in Federated Learning (in preparation).-->
 > ## Publications
 
-> - **Conference Proceedings**
+> - **Conference proceedings**
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
@@ -79,7 +79,7 @@ title: <span class="site-title">Sahil Tyagi</span>
 > * _Containerization_: Docker, Kubernetes
 > * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Slurm, MPI
 > * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
-> * _Cloud computing_: Google (GCP), Amazon (AWS)
+> * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
 <!-- * _Writing_: LaTex typesetting for project reports, academic grants, conference and journal articles-->
 
 ---
