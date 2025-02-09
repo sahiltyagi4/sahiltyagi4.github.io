@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <span class="site-title">Sahil Tyagi</span>
+title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
 > ## About Me
