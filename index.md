@@ -69,7 +69,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**Poster @CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).<br /><br/>
 
 > - **Journal articles**
-	> 1. **Tyagi, S.**, & Sharma, P., OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters, (under review) 2024.
 	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
 
 ---
