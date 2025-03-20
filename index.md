@@ -25,7 +25,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Highlights
 
-> -- [_03/2025_] Our work _OmniLearn_ accepted at IEEE Transactions on Parallel and Distributed Systems (TPDS)
+> -- [_03/2025_] Our work [_OmniLearn_](files/omnilearn.pdf) accepted at IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 > -- [_01/2025_] Said goodbye to the beautiful town of Bloomington and moved to Tennessee
 
