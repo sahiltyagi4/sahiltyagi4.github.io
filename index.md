@@ -25,7 +25,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Highlights
 
-> -- [_03/2025_] Our work [_OmniLearn_](files/omnilearn.pdf) accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
+> -- [_03/2025_] Our work [_OmniLearn_](https://ieeexplore.ieee.org/abstract/document/10932719) accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 > -- [_01/2025_] Said goodbye to the beautiful town of Bloomington and moved to Tennessee
 
@@ -71,7 +71,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**Poster @CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).<br /><br/>
 
 > - **Journal articles**
-	> 1. **Tyagi, S.**, & Sharma, P. _OmniLearn_: A Framework for Distributed Deep Learning over Heterogeneous Clusters. IEEE Transactions on Parallel and Distributed Systems (**TPDS '25**) [[pdf]](files/omnilearn.pdf) (to be published).
+	> 1. **Tyagi, S.**, & Sharma, P. _OmniLearn_: A Framework for Distributed Deep Learning over Heterogeneous Clusters. IEEE Transactions on Parallel and Distributed Systems (**TPDS '25**) [[pdf]](files/omnilearn.pdf).
 	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 [[pdf]](files/cost_effective_dataflows.pdf).
 
 ---
