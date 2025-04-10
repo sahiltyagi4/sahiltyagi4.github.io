@@ -59,7 +59,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Publications
 
 > - **Preprints**
-	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems [[pdf]](files/compute_comm_overview.pdf).<br /><br/>
+	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).<br /><br/>
 
 
 > - **Conference proceedings**
