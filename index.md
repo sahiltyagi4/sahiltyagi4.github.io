@@ -58,6 +58,10 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Publications
 
+> - **Preprints**
+	> 1. **Tyagi, S.**. An Overview of Computational and Communication Mechanisms for Scalable AI Systems [[pdf]](files/compute_comm_overview.pdf).<br /><br/>
+
+
 > - **Conference proceedings**
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
