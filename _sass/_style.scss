@@ -99,6 +99,7 @@ hr {
     }
 }
 
+
 @media (max-width: 500px) {
 	.navbar {
 		text-align: center;
@@ -125,6 +126,44 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+}
+
+/* ===============================
+   Mobile Responsive Design Tweaks
+   =============================== */
+
+@media (max-width: 768px) {
+  .navbar-ul {
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+  }
+
+  .nav-list {
+    padding: 10px 0;
+    font-size: 1.2rem;
+  }
+
+  .title-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  #author-name {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+
+  .wrapper {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;
+  }
 }
 
 @import "typography";
