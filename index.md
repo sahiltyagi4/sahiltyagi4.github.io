@@ -5,9 +5,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## About Me
 
-<!--**Hello! I'm Sahil, a recent Ph.D. graduate looking for full-time positions in ML-Systems field. Please feel free to reach out if my expertise fits your positions...**-->
-
-> During my graduate studies, I was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB). I worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My thesis focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. My research has been published and presented at leading conference venues and research groups across the world.
+> In grad school, I was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of Intelligent Systems Engineering (ISE) at the Luddy School of Informatics, Computing and Engineering of Indiana University Bloomington (IUB). I worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My thesis focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. My research has been published and presented at leading conference venues and research groups across the world.
 
 > Prior to graduate school, I've held software engineering and data science roles in the industry. Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space); [here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
 
@@ -15,11 +13,12 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Education
+> ## Research Interests
 
-> * _Doctor of Philosophy_, Intelligent Systems Engineering, Indiana University Bloomington, USA.
-	> - Thesis title: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
-> * _Bachelor of Technology_, Electrical and Electronics Engineering, IP University, New Delhi, India.
+> - Deep Learning systems
+> - Federated Learning
+> - Distributed Computing (cloud + HPC)
+> - ML for Systems/Systems for ML
 
 ---
 
@@ -37,13 +36,11 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Research Interests
+> ## Education
 
-> - Deep Learning
-> - Federated Learning
-> - Distributed Systems
-> - Cloud and High-Performance Computing (HPC)
-> - ML for Systems/Systems for ML
+> * _Doctor of Philosophy_, Intelligent Systems Engineering, Indiana University Bloomington, USA.
+	> - Thesis title: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
+> * _Bachelor of Technology_, Electrical and Electronics Engineering, IP University, New Delhi, India.
 
 ---
 
