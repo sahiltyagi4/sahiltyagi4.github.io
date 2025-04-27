@@ -36,7 +36,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Education
+> ## Education {#education}
 
 > * _Doctor of Philosophy_, Intelligent Systems Engineering, Indiana University Bloomington, USA.
 	> - Thesis title: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
@@ -55,7 +55,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
 
-> ## Publications
+> ## Publications {#publications}
 
 > - **Preprints**
 	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).<br /><br/>
