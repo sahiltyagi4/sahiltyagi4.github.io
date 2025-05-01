@@ -41,7 +41,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Education {#education}
 
 > * _Doctor of Philosophy_, Intelligent Systems Engineering (major: Computer engineering), Indiana University Bloomington, USA (2024).
-	> - Thesis title: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
+	> - Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
 > * _Bachelor of Technology_, Electrical and Electronics Engineering, IP University, New Delhi, India (2013).
 
 ---
@@ -97,7 +97,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Technical Skills
 
-> * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
+> * _Programming_: Python, C, C++, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 > * _Databases_: MySQL, HBase
 > * _Containerization_: Docker, Kubernetes
 > * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Message-queues (Kafka, RabboitMQ), Slurm, MPI
