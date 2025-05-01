@@ -44,16 +44,20 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Work Experience
-
-> * _2018-2024_: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
-> * _2017-2018_: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
-> * _2016-2017_: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
-> * _2015-2016_: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
-> * _2014-2015_: *Software Engineer*, Tatras Data Limited, New Delhi, India.
+> ## Teaching Experience
+- _High-Performance Computing (ENGR-E317/517)_: Spring 2024
+- _Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
+- _Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
+- _Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
+- _Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
 
 ---
 
+> ## Professional Services
+- _2024_: Reviewer for USENIX OSDI, USENIX ATC, IEEE CLUSTER, JPDC
+- _2025_: Reviewer for IJCNN, USENIX OSDI artifact evaluation, Euro-Par
+
+---
 
 > ## Publications {#publications}
 
@@ -79,6 +83,16 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
+> ## Awards
+- *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
+- *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
+- *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
+- *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
+- *Google Cloud Student Researcher (2021, 2022)*: Received Google Cloud credits for research.
+- *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
+
+---
+
 > ## Technical Skills
 
 > * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
@@ -91,28 +105,13 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Teaching Experience
-- _High-Performance Computing (ENGR-E317/517)_: Spring 2024
-- _Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
-- _Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
-- _Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
-- _Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
+> ## Work Experience
 
----
-
-> ## Professional Services
-- _2024_: Reviewer for USENIX OSDI, USENIX ATC, IEEE CLUSTER, JPDC
-- _2025_: Reviewer for IJCNN, USENIX OSDI artifact evaluation, Euro-Par
-
----
-
-> ## Awards
-- *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
-- *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
-- *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
-- *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
-- *Google Cloud Student Researcher (2021, 2022)*: Received Google Cloud credits for research.
-- *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
+> * _2018-2024_: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
+> * _2017-2018_: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
+> * _2016-2017_: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
+> * _2015-2016_: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
+> * _2014-2015_: *Software Engineer*, Tatras Data Limited, New Delhi, India.
 
 ---
 
