@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [styagi_AT_iu_DOT_edu](mailto:styagi@iu.edu)
+Email: [styagi_AT_iu_DOT_edu](mailto:styagi@iu.edu)
 
 ---
 

@@ -5,7 +5,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## About Him
 
-> Sahil is a postdoctoral researcher at the Analytics and AI Methods at Scale group (AAIMS) in the Computing and Computational Sciences Directorate (CCSD) of Oak Ridge National Laboratory (ORNL). His current work encompasses large-scale ML and federated learning.
+> Sahil is a [postdoctoral researcher](https://www.ornl.gov/staff-profile/sahil-tyagi) in the [Analytics and AI Methods at Scale group (AAIMS)](https://www.ornl.gov/group/aaims) at Oak Ridge National Laboratory (ORNL). His current work encompasses large-scale ML and federated learning.
 
 > He was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) at the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) of [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups across the world.
 
@@ -28,21 +28,21 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > -- [_04/2025_] Added a survey report on computational and communication optimizations in distributed deep learning systems [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
 
-> -- [_03/2025_] Our work [_OmniLearn_](https://ieeexplore.ieee.org/abstract/document/10932719) accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
+> -- [_03/2025_] Our work [_OmniLearn_](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 > -- [_01/2025_] Said goodbye to the beautiful town of Bloomington and moved to Tennessee
 
 > -- [_12/2024_] Graduated from Indiana University Bloomington [[pic1]](pictures/luddy_gradwalk1.jpg), [[pic2]](pictures/luddy_gradwalk2.jpeg)
 
-> -- [_09/2024_] Successfully defended my dissertation
+> -- [_09/2024_] Successfully passed Ph.D. defense
 
 ---
 
 > ## Education {#education}
 
-> * _Doctor of Philosophy_, Intelligent Systems Engineering, Indiana University Bloomington, USA.
+> * _Doctor of Philosophy_, Intelligent Systems Engineering (major: Computer engineering), Indiana University Bloomington, USA (2024).
 	> - Thesis title: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
-> * _Bachelor of Technology_, Electrical and Electronics Engineering, IP University, New Delhi, India.
+> * _Bachelor of Technology_, Electrical and Electronics Engineering, IP University, New Delhi, India (2013).
 
 ---
 
