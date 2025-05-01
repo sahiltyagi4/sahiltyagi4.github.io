@@ -3,13 +3,15 @@ layout: default
 title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
-> ## About Me
+> ## About Him
 
-> I was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) at the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) of [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html). I worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My thesis focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments. Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. My research has been published and presented at leading conference venues and research groups across the world.
+> Sahil is a postdoctoral researcher at the Analytics and AI Methods at Scale group (AAIMS) in the Computing and Computational Sciences Directorate (CCSD) of Oak Ridge National Laboratory (ORNL). His current work encompasses large-scale ML and federated learning.
 
-> Prior to graduate school, I've held software engineering and data science roles in the industry. Outside of work, I enjoy long walks, hikes and photography (mostly wildlife, trying to get more into space); [here](https://www.flickr.com/photos/200009325@N03/) are some pictures.
+> He was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) at the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) of [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups across the world.
 
-> [<u>My CV</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
+> Prior to graduate school, he held various software engineering and data science roles in the industry. Outside of work, he enjoys long walks, hikes and photography (mostly wildlife, trying to get more into space); [_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures.
+
+> [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
 
 ---
 
@@ -54,8 +56,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
 > ## Professional Services
-- _2024_: Reviewer for USENIX OSDI, USENIX ATC, IEEE CLUSTER, JPDC
-- _2025_: Reviewer for IJCNN, USENIX OSDI artifact evaluation, Euro-Par
+- _2024_: Reviewer for IEEE CLUSTER, JPDC, USENIX OSDI and USENIX ATC (Artifact evaluation committee)
+- _2025_: Reviewer for IJCNN, Euro-Par, USENIX OSDI (Artifact evaluation committee)
 
 ---
 
@@ -98,10 +100,9 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > * _Programming_: Python, C, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 > * _Databases_: MySQL, HBase
 > * _Containerization_: Docker, Kubernetes
-> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Kafka, Slurm, MPI
+> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Message-queues (Kafka, RabboitMQ), Slurm, MPI
 > * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
 > * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
-<!-- * _Writing_: LaTex typesetting for project reports, academic grants, conference and journal articles-->
 
 ---
 
