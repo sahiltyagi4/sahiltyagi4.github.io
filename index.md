@@ -95,7 +95,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Technical Skills
+> ## Technical Skills {#skills}
 
 > * _Programming_: Python, C, C++, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
 > * _Databases_: MySQL, HBase
