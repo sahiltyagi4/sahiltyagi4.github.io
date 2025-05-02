@@ -55,7 +55,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Professional Services
+> ## Service
 - _2024_: Reviewer for IEEE CLUSTER, JPDC, USENIX OSDI and USENIX ATC (Artifact evaluation committee)
 - _2025_: Reviewer for IJCNN, Euro-Par, USENIX OSDI (Artifact evaluation committee)
 
