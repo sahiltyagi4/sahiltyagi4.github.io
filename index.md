@@ -9,7 +9,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > He was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) at the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) of [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups across the world.
 
-> Prior to graduate school, he held various software engineering and data science roles in the industry. Outside of work, he enjoys gaming on his Nintendo (BotW, TotK), and photographing wildlife and astro; [_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures.
+> Prior to graduate school, he held various software engineering and data science roles in the industry. Outside of work, he enjoys gaming on his Nintendo (BotW, TotK), and photographing wildlife and astro ([_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures).
 
 > [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
 
