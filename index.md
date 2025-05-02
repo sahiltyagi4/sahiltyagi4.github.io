@@ -47,11 +47,11 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
 > ## Teaching Experience
-- _High-Performance Computing (ENGR-E317/517)_: Spring 2024
-- _Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
-- _Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
-- _Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
-- _Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
+- _Teaching Assitant, High-Performance Computing (ENGR-E317/517)_: Spring 2024
+- _Teaching Assitant, Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
+- _Teaching Assitant, Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
+- _Teaching Assitant, Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
+- _Teaching Assitant, Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
 
 ---
 
