@@ -40,9 +40,9 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Education {#education}
 
-> * _Doctor of Philosophy_, Intelligent Systems Engineering (major: Computer engineering), Indiana University Bloomington, USA (2024).
+> * _Ph.D._, Intelligent Systems Engineering (major: Computer engineering), Indiana University Bloomington, USA (2024).
 	> - Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
-> * _Bachelor of Technology_, Electrical and Electronics Engineering, IP University, New Delhi, India (2013).
+> * _B.Tech._, Electrical and Electronics Engineering, IP University, New Delhi, India (2013).
 
 ---
 
