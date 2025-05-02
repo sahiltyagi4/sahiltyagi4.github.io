@@ -5,7 +5,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## About Him
 
-> Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale group (AAIMS)](https://www.ornl.gov/group/aaims) at Oak Ridge National Laboratory (ORNL). His current work encompasses large-scale ML and federated learning.
+> Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale group (AAIMS)](https://www.ornl.gov/group/aaims) at Oak Ridge National Laboratory (ORNL), Tennessee, USA. His current work encompasses large-scale ML and federated learning.
 
 > He was advised by [Dr. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the Department of [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) at the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) of [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on building efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups across the world.
 
