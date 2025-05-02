@@ -26,7 +26,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Latest News
 
-> -- [_04/2025_] Added a survey report on computational and communication optimizations in distributed deep learning systems [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
+> -- [_04/2025_] Released a survey report on computational and communication optimizations in distributed deep learning systems [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
 
 > -- [_03/2025_] [OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
