@@ -97,10 +97,10 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Technical Skills {#skills}
 
-> * _Programming_: Python, C, C++, Shell scripting, OpenMP, CUDA, Java, Scala, R, MATLAB, SQL
+> * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
 > * _Databases_: MySQL, HBase
 > * _Containerization_: Docker, Kubernetes
-> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Message-queues (Kafka, RabboitMQ), Slurm, MPI
+> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, message brokers (Kafka, RabbitMQ), Slurm, MPI, CUDA, OpenMP
 > * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
 > * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
