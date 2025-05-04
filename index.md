@@ -30,7 +30,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Research Interests
+> <h2 style="display: inline-flex; align-items: center; gap: 10px;">
+  Research Interests <img src="https://tenor.com/view/magnifying-glass-searching-hovering-gif-14917660" alt="Magnifier" style="height: 1em; transform: translateY(-4.5px);"/></h2>
 
 > - Deep Learning systems
 > - Federated Learning
