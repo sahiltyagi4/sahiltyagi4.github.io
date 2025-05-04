@@ -3,6 +3,20 @@ layout: default
 title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
+> ## Latest News
+
+> -- [_04/2025_] Released a survey report on computational and communication optimizations in distributed deep learning systems [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
+
+> -- [_03/2025_] [OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
+
+> -- [_01/2025_] Said goodbye to the beautiful town of Bloomington and moved to Oak Ridge, Tennessee
+
+> -- [_12/2024_] Graduated from Indiana University Bloomington [[pic1]](pictures/luddy_gradwalk1.jpg), [[pic2]](pictures/luddy_gradwalk2.jpeg)
+
+> -- [_09/2024_] Successfully passed Ph.D. defense
+
+---
+
 > ## About Him
 
 > Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at Oak Ridge National Laboratory (ORNL), Tennessee, USA. His current work encompasses large-scale ML and federated learning.
@@ -21,20 +35,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > - Federated Learning
 > - Distributed Computing (cloud + HPC)
 > - ML for Systems/Systems for ML
-
----
-
-> ## Latest News
-
-> -- [_04/2025_] Released a survey report on computational and communication optimizations in distributed deep learning systems [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
-
-> -- [_03/2025_] [OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
-
-> -- [_01/2025_] Said goodbye to the beautiful town of Bloomington and moved to Oak Ridge, Tennessee
-
-> -- [_12/2024_] Graduated from Indiana University Bloomington [[pic1]](pictures/luddy_gradwalk1.jpg), [[pic2]](pictures/luddy_gradwalk2.jpeg)
-
-> -- [_09/2024_] Successfully passed Ph.D. defense
 
 ---
 
