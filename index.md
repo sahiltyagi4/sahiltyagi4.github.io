@@ -5,8 +5,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > <h2>
   Latest News
-  <img src="https://media.tenor.com/YgZDxjHPDFAAAAAC/siren.gif" alt="Siren" style="width: 30px; vertical-align: middle; margin-left: 8px;" />
-</h2>
+  <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="width: 30px; vertical-align: middle; margin-left: 8px;" /></h2>
 
 > -- [_04/2025_] Released a survey report on computational and communication optimizations in distributed deep learning systems [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
 
