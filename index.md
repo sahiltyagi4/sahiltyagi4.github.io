@@ -3,7 +3,16 @@ layout: default
 title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
-> ## Latest News
+> ## <h2 style="display: flex; align-items: center; gap: 10px;">
+  Latest News
+  <div class="tenor-gif-embed" data-postid="24685775" data-share-method="host" data-aspect-ratio="0.878125" data-width="40px">
+    <a href="https://tenor.com/view/siren-gif-24685775">Siren Sticker</a> from 
+    <a href="https://tenor.com/search/siren-stickers">Siren Stickers</a>
+  </div>
+</h2>
+
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 > -- [_04/2025_] Released a survey report on computational and communication optimizations in distributed deep learning systems [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
 
