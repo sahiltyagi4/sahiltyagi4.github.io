@@ -10,7 +10,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > -- [_03/2025_] [OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
-> -- [_01/2025_] Said goodbye to the beautiful town of Bloomington and moved to Oak Ridge, Tennessee
+> -- [_01/2025_] Said goodbye to Bloomington and moved to Oak Ridge, Tennessee
 
 > -- [_12/2024_] Graduated from Indiana University Bloomington [[pic1]](pictures/luddy_gradwalk1.jpg), [[pic2]](pictures/luddy_gradwalk2.jpeg)
 
