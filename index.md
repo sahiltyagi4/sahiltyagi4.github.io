@@ -59,8 +59,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
 > ## Service
-- _2024_: Reviewer for IEEE CLUSTER, JPDC, USENIX OSDI and USENIX ATC (Artifact evaluation committee)
-- _2025_: Reviewer for IJCNN, Euro-Par, USENIX OSDI (Artifact evaluation committee)
+- _2024_: Reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
+- _2025_: Reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA)
 
 ---
 
