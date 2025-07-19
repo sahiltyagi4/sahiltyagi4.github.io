@@ -6,13 +6,15 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > <h2 style="display: inline-flex; align-items: center; gap: 10px;">
   News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="height: 1em; transform: translateY(-4.5px);"/></h2>
 
+> -- [_07/2025_] Presented my work "_Enabling Large-Batch Training via Learned Gradient Mapping_" at ORNL's [ORPA Research Symposium](https://events.ornl.gov/researchsymposium2025/)
+
 > -- [_04/2025_] Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
 
-> -- [_03/2025_] [OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
+> -- [_03/2025_] [_OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters_](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 > -- [_01/2025_] Said goodbye to Bloomington and moved to Oak Ridge, Tennessee
 
-> -- [_12/2024_] Graduated from Indiana University Bloomington [[pic1]](pictures/luddy_gradwalk1.jpg), [[pic2]](pictures/luddy_gradwalk2.jpeg)
+> -- [_12/2024_] Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk1.jpg), [[link2]](pictures/luddy_gradwalk2.jpeg)
 
 > -- [_09/2024_] Successfully passed Ph.D. defense
 
@@ -28,7 +30,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > Prior to graduate school, he held various software engineering and data science roles in the industry. Outside of work, he enjoys gaming on his Nintendo (BotW, TotK), and photographing wildlife and astro ([_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures).
 
-> [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 08/2024].
+> [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 04/2025].
 
 ---
 
@@ -43,9 +45,13 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Education {#education}
 
-> * _Ph.D._, Intelligent Systems Engineering (major: Computer engineering), Indiana University Bloomington, USA (2024).
-	> - Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
-> * _B.Tech._, Electrical and Electronics Engineering, IP University, New Delhi, India (2013).
+> * _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
+	> - Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[pdf]](files/phd_thesis.pdf).
+> * _M.S._, Computer Engineering, Indiana University Bloomington, USA.
+> * _B.Tech._, Electrical and Electronics Engineering, IP University, New Delhi, India.
+<!--
+- Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
+-->
 
 ---
 
@@ -101,8 +107,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Technical Skills {#skills}
 
 > * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
-> * _Databases_: MySQL, HBase
-> * _Containerization_: Docker, Kubernetes
+> * _Containerization_: Docker, LxC, Singularity, Kubernetes
 > * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, message brokers (Kafka, RabbitMQ), Slurm, MPI, CUDA, OpenMP
 > * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
 > * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
@@ -121,6 +126,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Talks and Presentations
 
+> 1. _07/25_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at Oak Ridge's ORPA Research Symposium, Tennessee, USA.
 > 1. _09/24_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
 > 1. _09/24_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
 > 1. _04/24_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
