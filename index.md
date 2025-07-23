@@ -49,9 +49,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> - Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[pdf]](files/phd_thesis.pdf).
 > * _M.S._, Computer Engineering, Indiana University Bloomington, USA.
 > * _B.Tech._, Electrical and Electronics Engineering, IP University, New Delhi, India.
-<!--
-- Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[link]](https://www.proquest.com/docview/3159903004?sourcetype=Dissertations%20&%20Theses)
--->
 
 ---
 
