@@ -6,17 +6,25 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > <h2 style="display: inline-flex; align-items: center; gap: 10px;">
   News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="height: 1em; transform: translateY(-4.5px);"/></h2>
 
-> -- [_07/2025_] Presented my work "_Enabling Large-Batch Training via Learned Gradient Mapping_" at ORNL's [ORPA Research Symposium](https://events.ornl.gov/researchsymposium2025/)
+> -- [_08/2025_] Presented my ongoing project at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
 
-> -- [_04/2025_] Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf)
+> -- [_07/2025_] Attended Trillion Parameter Consortium ([TPC25](https://tpc25.org/)) at San Diego, California, USA.
 
-> -- [_03/2025_] [_OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters_](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
+> -- [_07/2025_] Serving on the Artifact Evaluation Board (AEB) of Journal of Systems Research ([JSys](https://www.jsys.org/)) for academic year 2025-26.
 
-> -- [_01/2025_] Said goodbye to Bloomington and moved to Oak Ridge, Tennessee
+<!-- -- [_07/2025_] Serving as a liaison for high-school students in Tennessee as part of Engineering for Us All (e4usa) for academic year 2025-26. -->
 
-> -- [_12/2024_] Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk1.jpg), [[link2]](pictures/luddy_gradwalk2.jpeg)
+> -- [_07/2025_] Presented my work "_Enabling Large-Batch Training via Learned Gradient Mapping_" at ORNL's [ORPA Research Symposium](https://events.ornl.gov/researchsymposium2025/).
 
-> -- [_09/2024_] Successfully passed Ph.D. defense
+> -- [_04/2025_] Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf).
+
+> -- [_03/2025_] [_OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters_](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems ([TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)).
+
+> -- [_01/2025_] Said goodbye to Bloomington and moved to Oak Ridge, Tennessee.
+
+> -- [_12/2024_] Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk1.jpg), [[link2]](pictures/luddy_gradwalk2.jpeg).
+
+> -- [_09/2024_] Successfully passed Ph.D. defense.
 
 ---
 
@@ -63,7 +71,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Service
 - _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
-- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Neurocomputing
+- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board member), AI4S workshop @Supercomputing (SC25)
+<!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
 
@@ -96,7 +105,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 - *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
 - *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
-- *Google Cloud Student Researcher (2021, 2022)*: Received Google Cloud credits for research.
+- *Google Cloud Student Researcher (2021, 2022)*: Received $2000 Google Cloud credits for research.
 - *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 
 ---
@@ -123,7 +132,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Talks and Presentations
 
-> 1. _07/25_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at Oak Ridge's ORPA Research Symposium, Tennessee, USA.
+> 1. _08/25_: Attended and presented my ongoing research at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
+> 1. _07/25_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at the 13th Annual ORPA Research Symposium, ORNL, Tennessee, USA.
 > 1. _09/24_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
 > 1. _09/24_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
 > 1. _04/24_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
