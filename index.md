@@ -6,13 +6,19 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > <h2 style="display: inline-flex; align-items: center; gap: 10px;">
   News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="height: 1em; transform: translateY(-4.5px);"/></h2>
 
+> -- [_09/2025_] Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26).
+
+> -- [_09/2025_] "_OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC_" accepted at the Extreme Heterogeneity and AI Convergence in HPC workshop to be held at Supercomputing'25.
+
+> -- [_09/2025_] Presented our modular federated learning framework _OmniFed_ as a poster at ORNL Software and Data expo (OSDX'25).
+
 > -- [_08/2025_] Presented my ongoing project at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
 
-> -- [_07/2025_] Attended Trillion Parameter Consortium ([TPC25](https://tpc25.org/)) at San Diego, California, USA.
+> -- [_08/2025_] Attended Trillion Parameter Consortium ([TPC25](https://tpc25.org/)) at San Diego, California, USA.
 
 > -- [_07/2025_] Serving on the Artifact Evaluation Board (AEB) of Journal of Systems Research ([JSys](https://www.jsys.org/)) for academic year 2025-26.
 
-<!-- -- [_07/2025_] Serving as a liaison for high-school students in Tennessee as part of Engineering for Us All (e4usa) for academic year 2025-26. -->
+> -- [_07/2025_] Serving as a liaison for high-school students in Tennessee as part of Engineering for Us All (e4usa) for academic year 2025-26.
 
 > -- [_07/2025_] Presented my work "_Enabling Large-Batch Training via Learned Gradient Mapping_" at ORNL's [ORPA Research Symposium](https://events.ornl.gov/researchsymposium2025/).
 
@@ -32,7 +38,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning.
 
-> He obtained his Bachelors in Electrical Engineering from IP University, New Delhi, his M.S. and Ph.D. in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) from [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html).
+> He obtained his Bachelors in Electrical Engineering from IP University, New Delhi, India, M.S. and Ph.D. in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) from [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html).
 
 > For his Ph.D. studies, he was advised by [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [IUB](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups across the world.
 
@@ -69,9 +75,9 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Service
+> ## Professional Service
 - _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
-- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board member), AI4S workshop @Supercomputing (SC25)
+- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26)
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
@@ -79,10 +85,13 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Publications {#publications}
 
 > - **Preprints**
+	> 1. **Tyagi, S.** On Using Large-Batches in Federated Learning [[pdf]](files/largebatch_FL.pdf).
 	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).<br /><br/>
 
 
 > - **Conference proceedings**
+	> 1. **Tyagi, S.**, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (**Poster @OSDX '25**) [[pdf]](files/omnifed_osdx_final.pdf).
+	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [<sup>*</sup> _Equal contribution_] (_to appear_)
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
@@ -114,7 +123,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
 > * _Containerization_: Docker, LxC, Singularity, Kubernetes
-> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, message brokers (Kafka, RabbitMQ), Slurm, MPI, CUDA, OpenMP
+> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Message queues (Kafka, RabbitMQ), Slurm, MPI, CUDA, OpenMP
 > * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
 > * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
@@ -132,7 +141,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Talks and Presentations
 
-> 1. _08/25_: Attended and presented my ongoing research at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
+> 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX) 
+> 1. _08/25_: Presented my work on a modular federeated learning framework at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
 > 1. _07/25_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at the 13th Annual ORPA Research Symposium, ORNL, Tennessee, USA.
 > 1. _09/24_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
 > 1. _09/24_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
