@@ -42,11 +42,11 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 - **04/2025** — Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf).
 
-- **03/2025** — *OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters* was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- **03/2025** — [*OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters*]((https://ieeexplore.ieee.org/abstract/document/10932719)) was accepted in IEEE Transactions on Parallel and Distributed Systems ([TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)).
 
 - **01/2025** — Said goodbye to Bloomington and moved to Oak Ridge, Tennessee.
 
-- **12/2024** — Graduated from Indiana University Bloomington
+- **12/2024** — Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk1.jpg), [[link2]](pictures/luddy_gradwalk2.jpeg).
 
 - **09/2024** — Successfully passed Ph.D. defense.
 
