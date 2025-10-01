@@ -14,7 +14,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
   overflow-y: auto;
   padding: 0.6rem 1rem;
   border-left: 4px solid #e6e6e6;
-  background: #feec8a;
+  background: #fffade;
   overflow-wrap: anywhere;    /* prevent insanely long single-line text */
 }
 .news-window p, .news-window li { margin: 0 0 0.5rem 0; }
