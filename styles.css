@@ -38,3 +38,20 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+
+.news-window {
+  max-height: 300px;   /* adjust to desired viewport height */
+  overflow-y: auto;    /* vertical scroll when content exceeds height */
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;
+  background-color: #fafafa;
+  scrollbar-width: thin;         /* Firefox */
+}
+
+.news-window::-webkit-scrollbar { /* Chrome/Safari */
+  width: 6px;
+}
+.news-window::-webkit-scrollbar-thumb {
+  background-color: #999;
+  border-radius: 3px;
+}

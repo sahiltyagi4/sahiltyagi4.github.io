@@ -3,9 +3,12 @@ layout: default
 title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
-> <h2 style="display: inline-flex; align-items: center; gap: 10px;">
-  News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="height: 1em; transform: translateY(-4.5px);"/></h2>
+<h2 style="display: inline-flex; align-items: center; gap: 10px;">
+  News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren"
+            style="height: 1em; transform: translateY(-4.5px);"/>
+</h2>
 
+<div class="news-window">
 > -- [_09/2025_] Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26).
 
 > -- [_09/2025_] "_OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC_" accepted at the Extreme Heterogeneity and AI Convergence in HPC workshop to be held at Supercomputing'25.
@@ -31,6 +34,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > -- [_12/2024_] Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk1.jpg), [[link2]](pictures/luddy_gradwalk2.jpeg).
 
 > -- [_09/2024_] Successfully passed Ph.D. defense.
+</div>
 
 ---
 
