@@ -7,34 +7,50 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
   News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="height: 1em; transform: translateY(-4.5px);"/></h2>
 
 
-<div class="news-window">
+<style>
+/* put this in your main CSS if you prefer */
+.news-window {
+  max-height: 260px;
+  overflow-y: auto;
+  padding: 0.6rem 1rem;
+  border-left: 4px solid #e6e6e6;
+  background: #fcfcfc;
+  overflow-wrap: anywhere;    /* prevent insanely long single-line text */
+}
+.news-window p, .news-window li { margin: 0 0 0.5rem 0; }
+.news-window ul { padding-left: 1rem; margin: 0; }
+</style>
 
-> -- [_09/2025_] Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26).
+<!-- "markdown=1" lets kramdown render inner markdown -->
+<div class="news-window" markdown="1">
 
-> -- [_09/2025_] "_OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC_" accepted at the Extreme Heterogeneity and AI Convergence in HPC workshop to be held at Supercomputing'25.
+- **09/2025** — Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26).
 
-> -- [_09/2025_] Presented our modular federated learning framework _OmniFed_ as a poster at ORNL Software and Data expo (OSDX'25).
+- **09/2025** — *OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC* accepted at the Extreme Heterogeneity and AI Convergence in HPC workshop to be held at Supercomputing'25.
 
-> -- [_08/2025_] Presented my ongoing project at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
+- **09/2025** — Presented our modular federated learning framework *OmniFed* as a poster at ORNL Software and Data expo (OSDX'25).
 
-> -- [_08/2025_] Attended Trillion Parameter Consortium ([TPC25](https://tpc25.org/)) at San Diego, California, USA.
+- **08/2025** — Presented my ongoing project at ORNL's *Federated and Collaborative Learning for Exascale Science and Security Workshop*, Tennessee, USA.
 
-> -- [_07/2025_] Serving on the Artifact Evaluation Board (AEB) of Journal of Systems Research ([JSys](https://www.jsys.org/)) for academic year 2025-26.
+- **08/2025** — Attended Trillion Parameter Consortium ([TPC25](https://tpc25.org/)) at San Diego, California, USA.
 
-> -- [_07/2025_] Serving as a liaison for high-school students in Tennessee as part of Engineering for Us All (e4usa) for academic year 2025-26.
+- **07/2025** — Serving on the Artifact Evaluation Board (AEB) of Journal of Systems Research ([JSys](https://www.jsys.org/)) for academic year 2025-26.
 
-> -- [_07/2025_] Presented my work "_Enabling Large-Batch Training via Learned Gradient Mapping_" at ORNL's [ORPA Research Symposium](https://events.ornl.gov/researchsymposium2025/).
+- **07/2025** — Serving as a liaison for high-school students in Tennessee as part of Engineering for Us All (e4usa) for academic year 2025-26.
 
-> -- [_04/2025_] Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf).
+- **07/2025** — Presented my work "*Enabling Large-Batch Training via Learned Gradient Mapping*" at ORNL's ORPA Research Symposium.
 
-> -- [_03/2025_] [_OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters_](https://ieeexplore.ieee.org/abstract/document/10932719) was accepted in IEEE Transactions on Parallel and Distributed Systems ([TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)).
+- **04/2025** — Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf).
 
-> -- [_01/2025_] Said goodbye to Bloomington and moved to Oak Ridge, Tennessee.
+- **03/2025** — *OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters* was accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
-> -- [_12/2024_] Graduated from Indiana University Bloomington [[link1]](pictures/luddy_gradwalk1.jpg), [[link2]](pictures/luddy_gradwalk2.jpeg).
+- **01/2025** — Said goodbye to Bloomington and moved to Oak Ridge, Tennessee.
 
-> -- [_09/2024_] Successfully passed Ph.D. defense.
+- **12/2024** — Graduated from Indiana University Bloomington
 
+- **09/2024** — Successfully passed Ph.D. defense.
+
+<!-- continue with the rest of your items -->
 </div>
 
 ---
