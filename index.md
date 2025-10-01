@@ -22,7 +22,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 </style>
 
 <!-- "markdown=1" lets kramdown render inner markdown -->
-> <div class="news-window" markdown="1">
+<div class="news-window" markdown="1">
 
 - **09/2025** — Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26).
 
