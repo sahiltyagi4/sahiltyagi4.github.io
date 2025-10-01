@@ -38,11 +38,3 @@ button {
 button:hover {
   background-color: #0056b3;
 }
-
-.news-window {
-  max-height: 300px;
-  overflow-y: auto;
-  padding-right: 10px;
-  border: 1px solid #ddd;
-  background: #feec8a;
-}
