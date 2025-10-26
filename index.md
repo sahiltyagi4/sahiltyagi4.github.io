@@ -36,7 +36,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 - **07/2025** — Serving on the Artifact Evaluation Board (AEB) of Journal of Systems Research ([JSys](https://www.jsys.org/)) for academic year 2025-26.
 
-- **07/2025** — Serving as a liaison for high-school students in Tennessee as part of Engineering for Us All ([e4usa](https://e4usa.org/)) for academic year 2025-26.
+<!--- **07/2025** — Serving as a liaison for high-school students in Tennessee as part of Engineering for Us All ([e4usa](https://e4usa.org/)) for academic year 2025-26.-->
 
 - **07/2025** — Presented my work "*Enabling Large-Batch Training via Learned Gradient Mapping*" at ORNL's ORPA Research Symposium.
 
