@@ -106,7 +106,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Publications {#publications}
 
 > - **Preprints**
-	> 1. **Tyagi, S.** On Using Large-Batches in Federated Learning [[pdf]](files/largebatch_FL.pdf).
 	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).<br /><br/>
 
 
