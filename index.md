@@ -21,6 +21,15 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
+> ## Research Interests
+
+> - Deep Learning systems
+> - Federated Learning
+> - Distributed Computing (cloud + HPC)
+> - ML for Systems/Systems for ML
+
+---
+
 > <h2 style="display: inline-flex; align-items: center; gap: 10px;">
   News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="height: 1em; transform: translateY(-4.5px);"/></h2>
 
@@ -70,15 +79,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 <!-- continue with the rest of your items -->
 </div>
-
----
-
-> ## Research Interests
-
-> - Deep Learning systems
-> - Federated Learning
-> - Distributed Computing (cloud + HPC)
-> - ML for Systems/Systems for ML
 
 ---
 
