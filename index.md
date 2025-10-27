@@ -3,6 +3,24 @@ layout: default
 title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
+> ## About Him
+
+> Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning.
+
+> He obtained his Bachelors in Electrical Engineering from IP University, New Delhi, India, M.S. and Ph.D. in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) from [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html).
+
+> For his Ph.D. studies, he was advised by [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [IUB](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups.
+
+> Prior to graduate school, he held various software engineering, big data and data science roles in the industry.
+
+> Happy to connect and explore collaboration opportunities so please feel free to reach out! :)
+
+<!--Outside of work, he enjoys gaming on his Nintendo (BotW, TotK), and photographing wildlife and astro ([_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures).-->
+
+<!-- [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 04/2025].-->
+
+---
+
 > <h2 style="display: inline-flex; align-items: center; gap: 10px;">
   News <img src="https://media.tenor.com/tJUxLMuw69QAAAAj/siren.gif" alt="Siren" style="height: 1em; transform: translateY(-4.5px);"/></h2>
 
@@ -52,20 +70,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 <!-- continue with the rest of your items -->
 </div>
-
----
-
-> ## About Him
-
-> Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning.
-
-> He obtained his Bachelors in Electrical Engineering from IP University, New Delhi, India, M.S. and Ph.D. in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) from [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html).
-
-> For his Ph.D. studies, he was advised by [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [IUB](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups across the world.
-
-> Prior to graduate school, he held various software engineering and data science roles in the industry. Outside of work, he enjoys gaming on his Nintendo (BotW, TotK), and photographing wildlife and astro ([_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures).
-
-> [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 04/2025].
 
 ---
 
