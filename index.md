@@ -15,7 +15,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 04/2025].
 
-> **Happy to connect and explore collaboration opportunities so please reach out! [email](mailto:tyagis@ornl.gov)**
+> **Happy to connect and explore collaboration opportunities so please reach out! [(email)](mailto:tyagis@ornl.gov)**
 
 <!--Outside of work, he enjoys gaming on his Nintendo (BotW, TotK), and photographing wildlife and astro ([_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures).-->
 
