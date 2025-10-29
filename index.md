@@ -110,12 +110,17 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Publications {#publications}
 
 > - **Preprints**
-	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).<br /><br/>
+	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).<br/><br/>
 
+> - **Posters**
+	> 1. **Tyagi, S.**, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (OSDX '25) [[pdf]](files/omnifed_osdx_final.pdf).
+	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops '23), 56-57 [[pdf]](files/selsync_poster.pdf).
+	> 1. **Tyagi, S.** Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW '23), 349-350 [[pdf]](files/scavenger_poster.pdf).<br/><br/>
+
+> - **Workshop proceedings**
+	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25 workshops). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).<br/><br/>
 
 > - **Conference proceedings**
-	> 1. **Tyagi, S.**, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (**Poster @OSDX '25**) [[pdf]](files/omnifed_osdx_final.pdf).
-	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
@@ -123,13 +128,11 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> 1. **Tyagi, S.**, & Swany, M. ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (**BigData '22**), 2113-2122 *(Accpt. rate 19.2%)* [[pdf]](files/scadles.pdf).
 	> 1. **Tyagi, S.**, & Sharma, P. Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching. 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (**ACSOS '20**), 188-194 *(Accpt. rate 25%)* [[pdf]](files/resource_taming.pdf).
 	> 1. Widanage, C., Li, J., **Tyagi, S.**, Teja, R., Peng, B., Kamburugamuve, S., Baum, D., Smith, D., Qiu, J., & Koskey, J. Anomaly Detection over Streaming Data: Indy500 Case Study. 2019 IEEE 12th International Conference on Cloud Computing (**CLOUD '19**), 9-16 *(Accpt. rate 20%)* [[pdf]](files/indy500.pdf).
-	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y. Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (**e-Science '17**), 403-412 *(Accpt. rate 36%)* [[pdf]](files/collaborative_escience.pdf).
-	> 1. **Tyagi, S.** Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**Poster @CCGridW '23**), 349-350 [[pdf]](files/scavenger_poster.pdf).
-	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**Poster @CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).<br /><br/>
+	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y. Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (**e-Science '17**), 403-412 *(Accpt. rate 36%)* [[pdf]](files/collaborative_escience.pdf).<br/><br/>
 
 > - **Journal articles**
 	> 1. **Tyagi, S.**, & Sharma, P. _OmniLearn_: A Framework for Distributed Deep Learning over Heterogeneous Clusters. IEEE Transactions on Parallel and Distributed Systems (**TPDS '25**) *(IF 5.6)* [[pdf]](files/omnilearn.pdf).
-	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 *(IF 5.3)* [[pdf]](files/cost_effective_dataflows.pdf).
+	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 *(IF 5.3)* [[pdf]](files/cost_effective_dataflows.pdf).<br/><br/>
 
 ---
 
