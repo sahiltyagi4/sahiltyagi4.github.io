@@ -51,6 +51,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
+- **11/2025** - Attending SC25 in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect!
+
 - **09/2025** — Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium ([IPDPS'26](https://www.ipdps.org/)).
 
 - **09/2025** — *OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC* accepted at the Extreme Heterogeneity and AI Convergence in HPC workshop to be held at Supercomputing'25.
@@ -102,7 +104,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Professional Service
 - _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
-- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26)
+- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26)
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
