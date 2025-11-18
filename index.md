@@ -51,7 +51,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
-- **11/2025** - Attending SC25 in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect!
+- **11/2025** - Attending SC25 in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect! [[pdf]](files/omnifed_sc25_talk.pdf)
 
 - **09/2025** — Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium ([IPDPS'26](https://www.ipdps.org/)).
 
@@ -171,7 +171,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Talks and Presentations
 
-> 1. _11/25_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO, USA. [[pdf]](files/omnifed_sc25_talk.pdf).
+> 1. _11/25_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[pdf]](files/omnifed_sc25_talk.pdf).
 > 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX) 
 > 1. _08/25_: Presented my work on a modular federeated learning framework at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
 > 1. _07/25_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at the 13th Annual ORPA Research Symposium, ORNL, Tennessee, USA.
