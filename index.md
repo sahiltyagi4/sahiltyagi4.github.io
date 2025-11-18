@@ -113,7 +113,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Publications {#publications}
 
 > - **Preprints**
-	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).<br/>
+	> 1. **Tyagi, S.** An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).
+	> 1. **Tyagi, S.** On Using Large-Batches in Federated Learning (2025) [[pdf]](files/largebatch_FL.pdf).<br/>
 
 > - **Posters**
 	> 1. **Tyagi, S.**, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (**OSDX '25**) [[pdf]](files/omnifed_osdx_final.pdf).
