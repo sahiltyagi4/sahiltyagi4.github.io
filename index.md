@@ -13,7 +13,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > Prior to graduate school, he held various software engineering, big data and data science roles in the industry. 
 
-> [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1YoKj8mkTTZtH7kOTMd4Xv99vyadC9ub8/view?usp=sharing) [last updated 04/2025].
+> [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1mAMT_Rzqv7Td1UroxR0NkKzjR76sFK3w/view?usp=sharing) [last updated 11/2025].
 
 > **Happy to connect and explore collaboration opportunities so please reach out! [(email)](mailto:tyagis@ornl.gov)**
 
