@@ -93,23 +93,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Teaching Experience
-- _Teaching Assitant, High-Performance Computing (ENGR-E317/517)_: Spring 2024
-- _Teaching Assitant, Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
-- _Teaching Assitant, Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
-- _Teaching Assitant, Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
-- _Teaching Assitant, Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
-
----
-
-> ## Professional Service
-- _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
-- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26)
-- _2026_: Technical program committee SC26 (Data Analytics, Visualization, & Storage track)
-<!-- Engineering for Us All (e4usa) liaison for high-school students -->
-
----
-
 > ## Publications {#publications}
 
 > - **Preprints**
@@ -140,16 +123,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Awards
-- *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
-- *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
-- *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
-- *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
-- *Google Cloud Student Researcher (2021, 2022)*: Received $2000 Google Cloud credits for research.
-- *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
-
----
-
 > ## Technical Skills {#skills}
 
 > * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
@@ -167,6 +140,33 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > * _2016-2017_: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
 > * _2015-2016_: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
 > * _2014-2015_: *Software Engineer*, Tatras Data Limited, New Delhi, India.
+
+---
+
+> ## Teaching Experience
+- _Teaching Assitant, High-Performance Computing (ENGR-E317/517)_: Spring 2024
+- _Teaching Assitant, Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
+- _Teaching Assitant, Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
+- _Teaching Assitant, Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
+- _Teaching Assitant, Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
+
+---
+
+> ## Professional Service
+- _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
+- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26)
+- _2026_: Technical program committee SC26 (Data Analytics, Visualization, & Storage track)
+<!-- Engineering for Us All (e4usa) liaison for high-school students -->
+
+---
+
+> ## Awards
+- *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
+- *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
+- *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
+- *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
+- *Google Cloud Student Researcher (2021, 2022)*: Received $2000 Google Cloud credits for research.
+- *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 
 ---
 
