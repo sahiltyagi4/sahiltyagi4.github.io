@@ -108,6 +108,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).<br/>
 
 > - **Conference proceedings**
+	> 1. **Tyagi, S.**, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. 2026 IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**) (_to appear_).
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
@@ -155,7 +156,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Professional Service
 - _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
 - _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26)
-- _2026_: Technical program committee SC26 (Data Analytics, Visualization, & Storage track)
+- _2026_: Technical program committee SC26 (Data Analytics, Visualization, & Storage track), IEEE World Congress on Computational Intelligence (WCCI)
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
@@ -164,7 +165,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 - *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
 - *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
-- *Best early-career & student poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
+- *Best early-career research poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
 - *Google Cloud Student Researcher (2021, 2022)*: Received $2000 Google Cloud credits for research.
 - *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 
