@@ -51,6 +51,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
+- **02/2026** - _Tula:Optimizing Performance, Cost and Generalization in Large-Batch Training_ accepted	to IEEE/ACM 26th International Symposium on Cluster, Cloud and Internet Computing (CCGrid '26).
+
 - **11/2025** - Attending SC25 in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect! [[pdf]](files/omnifed_sc25_talk.pdf)
 
 - **09/2025** — Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium ([IPDPS'26](https://www.ipdps.org/)).
@@ -71,7 +73,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 - **04/2025** — Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf).
 
-- **03/2025** — [*OmniLearn*](https://ieeexplore.ieee.org/abstract/document/10932719)*: A Framework for Distributed Deep Learning over Heterogeneous Clusters* was accepted in IEEE Transactions on Parallel and Distributed Systems ([TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)).
+- **03/2025** — [*OmniLearn*](https://ieeexplore.ieee.org/abstract/document/10932719)*: A Framework for Distributed Deep Learning over Heterogeneous Clusters* was accepted to IEEE Transactions on Parallel and Distributed Systems ([TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)).
 
 - **01/2025** — Said goodbye to Bloomington and moved to Oak Ridge, Tennessee.
 
@@ -155,8 +157,8 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Professional Service
 - _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
-- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26)
-- _2026_: Technical program committee SC26 (Data Analytics, Visualization, & Storage track), IEEE World Congress on Computational Intelligence (WCCI)
+- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25).
+- _2026_: Reviewer for International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26), Technical program committee SC26 (Data Analytics, Visualization, & Storage track), IEEE World Congress on Computational Intelligence (WCCI), International Joint Conference on Neural Networks (IJCNN).
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
