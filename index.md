@@ -51,7 +51,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
-- **02/2026** - _Tula:Optimizing Performance, Cost and Generalization in Large-Batch Training_ accepted	to IEEE/ACM 26th International Symposium on Cluster, Cloud and Internet Computing (CCGrid '26).
+- **02/2026** - _Tula: Optimizing Performance, Cost and Generalization in Large-Batch Training_ accepted	to IEEE/ACM 26th International Symposium on Cluster, Cloud and Internet Computing (CCGrid '26).
 
 - **11/2025** - Attending SC25 in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect! [[pdf]](files/omnifed_sc25_talk.pdf)
 
