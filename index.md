@@ -136,9 +136,9 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Work Experience
+> ## Industry Experience
 
-> * _2018-2024_: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.
+<!-- * _2018-2024_: *Graduate researcher* and *Associate Instructor* at the Luddy School of Computing, Indiana University Bloomington, USA.-->
 > * _2017-2018_: *Research Staff Member* at DREAM:Lab in the dept. of Computational and Data Sciences, Indian Institute of Science, Bengaluru, India.
 > * _2016-2017_: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., Gurugram, Haryana, India.
 > * _2015-2016_: *Big Data Engineer*, Stayzilla, Bengaluru, Karnataka, India.
@@ -146,7 +146,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Teaching Experience
+> ## Academic Experience
 - _Teaching Assitant, High-Performance Computing (ENGR-E317/517)_: Spring 2024
 - _Teaching Assitant, Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
 - _Teaching Assitant, Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
