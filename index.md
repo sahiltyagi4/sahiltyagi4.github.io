@@ -5,7 +5,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## About Him
 
-> Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning. He is also actively involved in the [Department of Energy (DoE)](https://www.energy.gov/) directed Genesis Mission [[link1](https://genesis.energy.gov/), [link2](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)].
+> Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning. He is also actively involved in the [Department of Energy (DoE)](https://www.energy.gov/) directed _Genesis Mission_ [[link1](https://genesis.energy.gov/), [link2](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)].
 
 > He obtained his Bachelors in Electrical Engineering from IP University, New Delhi, India, M.S. and Ph.D. in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) from [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html).
 
@@ -95,6 +95,16 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
+> ## Technical Skills {#skills}
+
+> * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
+> * _Containerization_: Docker, LxC, Singularity, Kubernetes
+> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Message queues (Kafka, RabbitMQ), Slurm, MPI, CUDA, OpenMP
+> * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
+> * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+
+---
+
 > ## Publications {#publications}
 
 > - **Preprints**
@@ -123,16 +133,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > - **Journal articles**
 	> 1. **Tyagi, S.**, & Sharma, P. _OmniLearn_: A Framework for Distributed Deep Learning over Heterogeneous Clusters. IEEE Transactions on Parallel and Distributed Systems (**TPDS '25**) *(IF 5.6)* [[pdf]](files/omnilearn.pdf).
 	> 1. Chaturvedi, S., **Tyagi, S.**, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 *(IF 5.3)* [[pdf]](files/cost_effective_dataflows.pdf).<br/>
-
----
-
-> ## Technical Skills {#skills}
-
-> * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
-> * _Containerization_: Docker, LxC, Singularity, Kubernetes
-> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Message queues (Kafka, RabbitMQ), Slurm, MPI, CUDA, OpenMP
-> * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
-> * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
 ---
 
