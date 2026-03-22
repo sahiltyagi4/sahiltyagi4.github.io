@@ -110,7 +110,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).<br/>
 
 > - **Conference proceedings**
-	> 1. **Tyagi, S.**, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. 2026 IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**) [[pdf]](files/tula.pdf).
+	> 1. **Tyagi, S.**, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. 2026 IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**) *(Accpt. rate 25%)* [[pdf]](files/tula.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
