@@ -112,7 +112,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> 1. **Tyagi, S.** On Using Large-Batches in Federated Learning (2025) [[pdf]](files/largebatch_FL.pdf).<br/>
 
 > - **Posters**
-	> 1. **Tyagi, S.**, & Wang, F. OmniFed: Towards Configurable Cross-Silo Federated Learning. 2026 The Future of Computing, Collaboration Catalyst.
+	> 1. **Tyagi, S.**, & Wang, F. OmniFed: Towards Configurable Cross-Silo Federated Learning. 2026 The Future of Computing, Collaboration Catalyst, ORNL.
 	> 1. **Tyagi, S.**, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (**OSDX '25**) [[pdf]](files/omnifed_osdx_final.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).
 	> 1. **Tyagi, S.** Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**CCGridW '23**), 349-350 [[pdf]](files/scavenger_poster.pdf).<br/>
@@ -177,7 +177,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Talks and Presentations
 
-> 1. _04/26_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session.
+> 1. _04/26_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
 > 1. _11/25_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[pdf]](files/omnifed_sc25_talk.pdf).
 > 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX) 
 > 1. _08/25_: Presented my work on a modular federeated learning framework at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
