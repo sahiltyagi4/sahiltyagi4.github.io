@@ -53,7 +53,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 - **02/2026** - _Tula: Optimizing Performance, Cost and Generalization in Large-Batch Training_ accepted	to IEEE/ACM 26th International Symposium on Cluster, Cloud and Internet Computing (CCGrid '26).
 
-- **12/2025** - Serving on the TPC at the 2026 International Conference for High Performance Computing, Networking, Storage and Analysis, under Data Analytics, Visualization and Storage track.
+- **12/2025** - Serving on the TPC at the 2026 International Conference for High Performance Computing, Networking, Storage and Analysis, under Data Analytics, Visualization and Storage track ([SC26](https://sc26.supercomputing.org/community-engagement/planning-committee/)).
 
 - **11/2025** - Attending SC25 in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect! [[pdf]](files/omnifed_sc25_talk.pdf)
 
