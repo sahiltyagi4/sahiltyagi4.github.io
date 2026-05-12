@@ -59,7 +59,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 - **09/2025** — Serving on program committee of the 40th IEEE International Parallel & Distributed Processing Symposium ([IPDPS'26](https://www.ipdps.org/)).
 
-- **09/2025** — *OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC* accepted at the Extreme Heterogeneity and AI Convergence in HPC workshop to be held at Supercomputing'25.
+- **09/2025** — *OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC* accepted at the Extreme Heterogeneity and AI Convergence in HPC workshop to be held at [SC'25](https://sc25.supercomputing.org/).
 
 - **09/2025** — Presented our modular federated learning framework *OmniFed* as a poster at ORNL Software and Data expo ([OSDX'25](https://softwaredataexpo.ornl.gov/)).
 
