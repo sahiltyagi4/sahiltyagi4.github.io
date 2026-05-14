@@ -162,7 +162,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > ## Professional Service
 - _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
 - _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25).
-- _2026_: Reviewer for International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26), Technical program committee SC26 (Data Analytics, Visualization, & Storage track), IEEE World Congress on Computational Intelligence (WCCI), International Joint Conference on Neural Networks (IJCNN).
+- _2026_: Reviewer for International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26), Technical program committee SC26 (Data Analytics, Visualization, & Storage track), International Joint Conference on Neural Networks (IJCNN), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys).
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
