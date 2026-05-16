@@ -7,9 +7,9 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning. He is also actively involved in the [Department of Energy (DoE)](https://www.energy.gov/) directed _Genesis Mission_ [[link1](https://genesis.energy.gov/), [link2](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)].
 
-> He obtained his Bachelors in Electrical Engineering from IP University, New Delhi, India, M.S. and Ph.D. in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html) from [Indiana University Bloomington (IUB)](https://www.iu.edu/index.html).
+> He obtained his bachelors in Electrical engineering, masters and doctorate in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html).
 
-> For his Ph.D. studies, he was advised by [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [IUB](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups.
+> For his Ph.D. studies, he was advised by [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at Indiana University Bloomington (IUB)](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups.
 
 > Prior to graduate school, he held various software engineering, big data and data science roles in the industry. 
 
@@ -93,7 +93,6 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 > * _Ph.D._, Intelligent Systems Engineering, Indiana University Bloomington, USA.
 	> - Thesis: _Towards Building Efficient Computation and Communication Models for Deep Learning Systems_ [[pdf]](files/phd_thesis.pdf).
 > * _M.S._, Computer Engineering, Indiana University Bloomington, USA.
-> * _B.Tech._, Electrical and Electronics Engineering, IP University, New Delhi, India.
 
 ---
 
@@ -123,7 +122,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).<br/>
 
 > - **Conference proceedings**
-	> 1. **Tyagi, S.**, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. 2026 IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**) *(Accpt. rate 25%)* [[pdf]](files/tula.pdf).
+	> 1. **Tyagi, S.**, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**) *(Accpt. rate 25%)* [[pdf]](files/tula.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
@@ -179,23 +178,24 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Talks and Presentations
 
+<!--> 1. _05/26_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training." 2026 IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[slides]](files/ccgrid26_tula.pdf).-->
 > 1. _04/26_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
-> 1. _11/25_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[pdf]](files/omnifed_sc25_talk.pdf).
+> 1. _11/25_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[slides]](files/omnifed_sc25_talk.pdf).
 > 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX) 
 > 1. _08/25_: Presented my work on a modular federeated learning framework at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
 > 1. _07/25_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at the 13th Annual ORPA Research Symposium, ORNL, Tennessee, USA.
 > 1. _09/24_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
 > 1. _09/24_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
 > 1. _04/24_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
-> 1. _12/23_: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[pdf]](files/adopt_talk.pdf).
-> 1. _11/23_: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_talk.pdf).
-> 1. _11/23_: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[pdf]](files/selsync_poster.pdf).
+> 1. _12/23_: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[slides]](files/adopt_talk.pdf).
+> 1. _11/23_: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[slides]](files/selsync_talk.pdf).
+> 1. _11/23_: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[poster]](files/selsync_poster.pdf).
 > 1. _09/23_: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
-> 1. _07/23_: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[pdf]](files/gravac_talk.pdf).
-> 1. _05/23_: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_talk.pdf).
-> 1. _05/23_: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[pdf]](files/scavenger_poster.pdf).
-> 1. _12/22_: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[pdf]](files/scadles_talk.pdf).
-> 1. _07/20_: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[pdf]](files/resrctaming_talk.pdf).
-> 1. _11/18_: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[pdf]](files/indy500_intel.pdf).
+> 1. _07/23_: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[slides]](files/gravac_talk.pdf).
+> 1. _05/23_: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[slides]](files/scavenger_talk.pdf).
+> 1. _05/23_: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[poster]](files/scavenger_poster.pdf).
+> 1. _12/22_: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[slides]](files/scadles_talk.pdf).
+> 1. _07/20_: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[slides]](files/resrctaming_talk.pdf).
+> 1. _11/18_: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[slides]](files/indy500_intel.pdf).
 
 ---
