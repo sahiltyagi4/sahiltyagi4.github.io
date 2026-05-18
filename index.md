@@ -98,7 +98,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
 > * _Containerization_: Docker, LxC, Singularity, Kubernetes
-> * _Distributed computing_: Apache Hadoop, Spark, Spark Streaming, Storm, Message queues (Kafka, RabbitMQ), Slurm, MPI, CUDA, OpenMP
+> * _Distributed computing_: Hadoop, Spark, Spark Streaming, Storm, Message queues, Slurm, MPI, CUDA, OpenMP
 > * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
 > * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
