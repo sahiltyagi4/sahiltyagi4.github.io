@@ -138,7 +138,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Industry Experience
 
-> * _2025-now: *Postdoctoral Research Associate*, AAIMS Group, National Center for Computational Sciences (NCCS), Oak Ridge National Laboratory (ORNL), USA.
+> * _2025-now_: *Postdoctoral Research Associate*, AAIMS Group, National Center for Computational Sciences (NCCS), Oak Ridge National Laboratory (ORNL), USA.
 > * _2017-2018_: *Research Staff Member*, DREAM:Lab, Dept. of Computational and Data Sciences (CDS), Indian Institute of Science, India.
 > * _2016-2017_: *Data Scientist*, RocQ Mobile App Analytics, HT Media Ltd., India.
 > * _2015-2016_: *Big Data Engineer*, Stayzilla Ltd., India.
