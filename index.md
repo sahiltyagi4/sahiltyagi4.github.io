@@ -175,6 +175,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Talks and Presentations
 
+> 1. _05/26_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training", IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[slides]](files/ccgrid26_tula.pdf).
 > 1. _04/26_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
 > 1. _11/25_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[slides]](files/omnifed_sc25_talk.pdf).
 > 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX) 
