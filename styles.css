@@ -21,9 +21,8 @@ body.dark-mode {
 }
 
 .container {
-  max-width: none;
-  padding: 20px 5vw;
-  text-align: left;
+  text-align: center;
+  padding: 50px;
 }
 
 button {

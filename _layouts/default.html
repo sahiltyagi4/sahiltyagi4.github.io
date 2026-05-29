@@ -149,14 +149,6 @@
         <hr>
         {% if page.is_contact == true %}
             <div class="container content contact">
-                {{ content }}
-                {% if site.footer == true %}
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                    </p>
-                {% endif %}
-            </div>
         {% else %}
             <div class="container content">
                 <div class="title-container">
@@ -180,7 +172,7 @@
                 </div>
                 <script src="script.js"></script>
             </div>
-            <div class="container">
+        {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
                     <hr />
@@ -189,7 +181,6 @@
                     </p>
                 {% endif %}
             </div>
-        {% endif %}
     </div>
     {% if site.tracking_id %}
         <script>
