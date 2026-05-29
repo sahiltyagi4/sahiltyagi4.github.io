@@ -9,7 +9,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: "Apple Symbols", sans-serif;
   background-color: var(--bg-color-light);
   color: var(--text-color-light);
   transition: background-color 0.3s, color 0.3s;
