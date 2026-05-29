@@ -36,7 +36,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 /* put this in your main CSS if you prefer */
 .news-window {
   max-height: 300px;
-  max-width: 1800px;
+  max-width: 1600px;
   overflow-y: auto;
   padding: 0.6rem 1rem;
   border-left: 4px solid #e6e6e6;
