@@ -3,7 +3,7 @@ layout: default
 title: <span class="site-title">Dr. Sahil Tyagi</span>
 ---
 
-> ## About Him
+> ## About
 
 > Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning. He is also actively involved in the [Department of Energy (DoE)](https://www.energy.gov/) directed _Genesis Mission_ [[link1](https://genesis.energy.gov/), [link2](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)].
 
