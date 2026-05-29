@@ -49,10 +49,8 @@
             align-items: center;
         }
 
-        .navbar {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
+        #navlist {
+            white-space: nowrap;
         }
     </style>
     <meta charset="UTF-8">
@@ -127,7 +125,7 @@
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
             <a id="author-name" class="alignable pull-left site-title" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-            <ul id="navlist" class="alignable pull-left navbar-ul">
+            <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
                         <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
@@ -144,7 +142,7 @@
                     / <a href="#education">Education</a>
                 </li>
                 <li class="alignable pull-left nav-list">
-                    / <a href="#publications">Skills</a>
+                    / <a href="#skills">Skills</a>
                 </li>
                 <li class="alignable pull-left nav-list">
                     / <a href="#skills">Publications</a>
