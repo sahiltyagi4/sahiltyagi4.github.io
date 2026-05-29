@@ -94,7 +94,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Technical Skills {#skills}
+> ## Skills {#skills}
 
 > * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
 > * _Containerization_: Docker, LxC, Singularity, Kubernetes
@@ -136,7 +136,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Industry Experience
+> ## Employment
 
 > * _2025-now_: *Postdoctoral Research Associate*, AAIMS Group, National Center for Computational Sciences (NCCS), Oak Ridge National Laboratory (ORNL), USA.
 > * _2017-2018_: *Research Staff Member*, DREAM:Lab, Dept. of Computational and Data Sciences (CDS), Indian Institute of Science, India.
@@ -146,16 +146,16 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Academic Experience
-- _Teaching Assitant (IUB), High-Performance Computing (ENGR-E317/517)_: Spring 2024
-- _Teaching Assitant (IUB), Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
-- _Teaching Assitant (IUB), Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
-- _Teaching Assitant (IUB), Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
-- _Teaching Assitant (IUB), Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
+> ## Teaching
+- _Associate Instructor (IUB), High-Performance Computing (ENGR-E317/517)_: Spring 2024
+- _Associate Instructor (IUB), Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
+- _Associate Instructor (IUB), Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
+- _Associate Instructor (IUB), Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
+- _Associate Instructor (IUB), Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
 
 ---
 
-> ## Professional Service
+> ## Services
 - _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
 - _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), e-Science, Elsevier Neurocomputing, Journal of Systems Research (JSys) (Artifact evaluation board), AI4S workshop @Supercomputing (SC25).
 - _2026_: Reviewer for International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26), Technical program committee SC26 (Data Analytics, Visualization, & Storage track), International Joint Conference on Neural Networks (IJCNN), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys).
@@ -173,7 +173,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 ---
 
-> ## Talks and Presentations
+> ## Talks
 
 > 1. _05/26_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training", IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[slides]](files/ccgrid26_tula.pdf).
 > 1. _04/26_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
