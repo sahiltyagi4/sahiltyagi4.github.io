@@ -48,6 +48,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 }
 .news-window p, .news-window li { margin: 0 0 0.5rem 0; }
 .news-window ul { padding-left: 1rem; margin: 0; }
+body.dark-mode .news-window { background: #4c4b42; }
 </style>
 
 <!-- "markdown=1" lets kramdown render inner markdown -->
@@ -100,10 +101,9 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## Skills {#skills}
 
-> * _Programming_: Python, C, C++, Shell scripting, Java, Scala, R, MATLAB, SQL
-> * _Containerization_: Docker, LxC, Singularity, Kubernetes
+> * _Programming_: Python, Shell scripting, Java, Scala, R, MATLAB, SQL
 > * _Distributed computing_: Hadoop, Spark, Spark Streaming, Storm, Message queues, Slurm, MPI, CUDA, OpenMP
-> * _ML libraries_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face
+> * _ML/AI: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face, NVFlare, FastMCP, Langchain, Microsoft Agent Framework, OpenAI SDK
 > * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
 ---
