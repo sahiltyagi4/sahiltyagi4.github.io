@@ -26,8 +26,8 @@ body.dark-mode {
 }
 
 .page-content {
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 15%;
+  padding-right: 15%;
   box-sizing: border-box;
   width: 100%;
   overflow-wrap: break-word;
