@@ -140,7 +140,7 @@ body.dark-mode .news-window { background: #4c4b42; }
 
 ---
 
-> ## Employment
+> ## Employment {#employment}
 
 > * _2025-now_: *Postdoctoral Research Associate*, AAIMS Group, National Center for Computational Sciences (NCCS), Oak Ridge National Laboratory (ORNL), USA.
 > * _2017-2018_: *Research Staff Member*, DREAM:Lab, Dept. of Computational and Data Sciences (CDS), Indian Institute of Science, India.
@@ -167,7 +167,7 @@ body.dark-mode .news-window { background: #4c4b42; }
 
 ---
 
-> ## Awards
+> ## Awards {#awards}
 - *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
 - *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
@@ -177,7 +177,7 @@ body.dark-mode .news-window { background: #4c4b42; }
 
 ---
 
-> ## Talks
+> ## Talks {#talks}
 
 > 1. _05/26_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training", IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[slides]](files/ccgrid26_tula.pdf).
 > 1. _04/26_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
