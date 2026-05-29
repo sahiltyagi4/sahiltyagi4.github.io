@@ -49,8 +49,26 @@
             align-items: center;
         }
 
+        .navbar.container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+        }
+
         #navlist {
             white-space: nowrap;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 4px;
+        }
+
+        #navlist li {
+            display: inline;
         }
     </style>
     <meta charset="UTF-8">
