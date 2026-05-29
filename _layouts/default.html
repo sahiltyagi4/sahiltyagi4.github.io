@@ -173,13 +173,15 @@
                 <script src="script.js"></script>
             </div>
         {% endif %}
-                {{ content }}
-                {% if site.footer == true %}
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                    </p>
-                {% endif %}
+        <div class="page-content">
+            {{ content }}
+            {% if site.footer == true %}
+                <hr />
+                <p style="text-align: center; margin-bottom: 10px">
+                <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                </p>
+            {% endif %}
+        </div>
             </div>
     </div>
     {% if site.tracking_id %}
