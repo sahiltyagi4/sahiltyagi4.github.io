@@ -179,24 +179,25 @@ body.dark-mode .news-window { background: #4c4b42; }
 
 > ## Talks {#talks}
 
-> 1. _05/26_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training", IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[slides]](files/ccgrid26_tula.pdf).
-> 1. _04/26_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
-> 1. _11/25_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[slides]](files/omnifed_sc25_talk.pdf).
+> 1. _06/2026_: Invited talk, "OmniFed: Towards Configurable Cross-Silo Federated Learning", Trillion Parameter Consortium 2026, Baltimore, Maryland, USA [[slides]](files/omnifed_tpc26.pdf).
+> 1. _05/2026_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training", IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[slides]](files/ccgrid26_tula.pdf).
+> 1. _04/2026_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
+> 1. _11/2025_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[slides]](files/omnifed_sc25_talk.pdf).
 > 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX) 
-> 1. _08/25_: Presented my work on a modular federeated learning framework at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
-> 1. _07/25_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at the 13th Annual ORPA Research Symposium, ORNL, Tennessee, USA.
-> 1. _09/24_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
-> 1. _09/24_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
-> 1. _04/24_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
-> 1. _12/23_: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[slides]](files/adopt_talk.pdf).
-> 1. _11/23_: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[slides]](files/selsync_talk.pdf).
-> 1. _11/23_: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[poster]](files/selsync_poster.pdf).
-> 1. _09/23_: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
-> 1. _07/23_: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[slides]](files/gravac_talk.pdf).
-> 1. _05/23_: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[slides]](files/scavenger_talk.pdf).
-> 1. _05/23_: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[poster]](files/scavenger_poster.pdf).
-> 1. _12/22_: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[slides]](files/scadles_talk.pdf).
-> 1. _07/20_: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[slides]](files/resrctaming_talk.pdf).
-> 1. _11/18_: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[slides]](files/indy500_intel.pdf).
+> 1. _08/2025_: Presented my work on a modular federeated learning framework at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
+> 1. _07/2025_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at the 13th Annual ORPA Research Symposium, ORNL, Tennessee, USA.
+> 1. _09/2024_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
+> 1. _09/2024_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
+> 1. _04/2024_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
+> 1. _12/2023_: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[slides]](files/adopt_talk.pdf).
+> 1. _11/2023_: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[slides]](files/selsync_talk.pdf).
+> 1. _11/2023_: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[poster]](files/selsync_poster.pdf).
+> 1. _09/2023_: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
+> 1. _07/2023_: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[slides]](files/gravac_talk.pdf).
+> 1. _05/2023_: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[slides]](files/scavenger_talk.pdf).
+> 1. _05/2023_: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[poster]](files/scavenger_poster.pdf).
+> 1. _12/2022_: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[slides]](files/scadles_talk.pdf).
+> 1. _07/2020_: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[slides]](files/resrctaming_talk.pdf).
+> 1. _11/2018_: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[slides]](files/indy500_intel.pdf).
 
 ---
