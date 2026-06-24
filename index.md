@@ -104,9 +104,9 @@ body.dark-mode .news-window { background: #2e1915; }
 > ## Skills {#skills}
 
 > * _Programming_: Python, Shell scripting, Java, Scala, R, MATLAB, SQL
-> * _Distributed computing_: Apache Hadoop, Apache Spark, Apache Storm, Message queues, Slurm, Ray, MPI
-> * _ML/AI_: PyTorch, TensorFlow, DeepSpeed, Keras, MXNet, Hugging Face, NVFlare, FastMCP, Langchain, Microsoft Agent Framework, OpenAI SDK
-> * _Cloud computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+> * _Distributed computing_: Hadoop, Spark, Storm, Kafka, ZeroMQ, Ray, Docker, OpenShift
+> * _ML/AI_: PyTorch, TorchTitan, DeepSpeed, Keras, TensorFlow, Hugging Face, NVFlare, FastMCP, Langchain, Microsoft Agent Framework, OpenAI SDK
+> * _Cloud/Cluster computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS), Slurm, OpenPBS
 
 ---
 
