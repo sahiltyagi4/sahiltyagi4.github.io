@@ -101,7 +101,7 @@ body.dark-mode .news-window { background: #2e1915; }
 
 ---
 
-> ## Dev Skills {#skills}
+> ## Dev skills {#skills}
 
 <!-- * _Programming_: Python, Shell scripting, Java, Scala, R, MATLAB, SQL-->
 > * _Distributed computing_: Hadoop, Spark, Storm, Kafka, ZeroMQ, Ray, Docker, OpenShift
