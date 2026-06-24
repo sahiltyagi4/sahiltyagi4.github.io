@@ -41,14 +41,14 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
   padding: 0.6rem 1rem;
   border-left: 4px solid #e6e6e6;
   border-right: 4px solid #e6e6e6;
-  background: #c0a891;
+  background: #faf5ef;
   overflow-wrap: anywhere;    /* prevent insanely long single-line text */
   margin-left: 60px;
   margin-right: 40px;
 }
 .news-window p, .news-window li { margin: 0 0 0.5rem 0; }
 .news-window ul { padding-left: 1rem; margin: 0; }
-body.dark-mode .news-window { background: #6f4e37; }
+body.dark-mode .news-window { background: #2e1915; }
 </style>
 
 <!-- "markdown=1" lets kramdown render inner markdown -->
