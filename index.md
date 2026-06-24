@@ -5,11 +5,11 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > ## About
 
-> Sahil Tyagi (साहिल त्यागी) is a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), Tennessee, USA. His current work encompasses scalable ML/AI and federated learning. He is also actively involved in the [Department of Energy (DoE)](https://www.energy.gov/) directed _Genesis Mission_ [[link1](https://genesis.energy.gov/), [link2](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)].
+> Hello! I'm a postdoctoral researcher in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), TN, USA. My current work encompasses scalable ML/AI and federated learning. I'm also involved in the [Department of Energy (DoE)](https://www.energy.gov/) directed _Genesis Mission_ effort [[link1](https://genesis.energy.gov/), [link2](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)].
 
-> He obtained his bachelors in Electrical engineering, masters and doctorate in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html). For his Ph.D. studies, he was advised by [Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [Indiana University Bloomington](https://www.iu.edu/index.html). There, he worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. His thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> His research has been published and presented at leading conference venues and research groups.
+> I obtained my bachelors in Electrical engineering, masters and doctorate in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html). In my Ph.D. studies, I was advised by [Prof. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [Indiana University Bloomington](https://www.iu.edu/index.html). There, I worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> My research has been published and presented at leading conference venues and research groups.
 
-> Prior to graduate school, he held various software engineering, big data and data science roles in the industry. 
+> Prior to graduate school, I held various software engineering, big data and data science roles in the industry. 
 
 > [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1pKgKoDMeq2bWP1uHzc-BiSOcYB3ly7v5/view?usp=sharing) [last updated 12/2025].
 
@@ -53,6 +53,7 @@ body.dark-mode .news-window { background: #2e1915; }
 
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
+
 - **06/2026** - Attended 2026 Trillion Parameter Consortium ([TPC26](https://tpc26.org/)) in Baltimore, Maryland, and showcased my work on cross-facility FL [[link]](https://www.linkedin.com/posts/share-7467908723143757824-XKcJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAl445kBd7ZWXOPv2bu_TLj8ZOqaQ2ci_mY).
 
 - **02/2026** - _Tula: Optimizing Performance, Cost and Generalization in Large-Batch Training_ accepted	to IEEE/ACM 26th International Symposium on Cluster, Cloud and Internet Computing ([CCGrid'26](https://ccgrid2026.cdms.westernsydney.edu.au/)).
