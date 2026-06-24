@@ -103,7 +103,7 @@ body.dark-mode .news-window { background: #2e1915; }
 
 > ## Skills {#skills}
 
-> * _Programming_: Python, Shell scripting, Java, Scala, R, MATLAB, SQL
+<!-- * _Programming_: Python, Shell scripting, Java, Scala, R, MATLAB, SQL-->
 > * _Distributed computing_: Hadoop, Spark, Storm, Kafka, ZeroMQ, Ray, Docker, OpenShift
 > * _ML/AI_: PyTorch, TorchTitan, DeepSpeed, Keras, TensorFlow, Hugging Face, NVFlare, FastMCP, Langchain, Microsoft Agent Framework, OpenAI SDK
 > * _Cloud/Cluster computing_: Google Cloud Platform (GCP), Amazon Web Services (AWS), Slurm, OpenPBS
