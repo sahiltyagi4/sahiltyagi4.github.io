@@ -53,7 +53,6 @@ body.dark-mode .news-window { background: #2e1915; }
 
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
-
 - **06/2026** - Attended 2026 Trillion Parameter Consortium ([TPC26](https://tpc26.org/)) in Baltimore, Maryland, and showcased my work on cross-facility FL [[link]](https://www.linkedin.com/posts/share-7467908723143757824-XKcJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAl445kBd7ZWXOPv2bu_TLj8ZOqaQ2ci_mY).
 
 - **02/2026** - _Tula: Optimizing Performance, Cost and Generalization in Large-Batch Training_ accepted	to IEEE/ACM 26th International Symposium on Cluster, Cloud and Internet Computing ([CCGrid'26](https://ccgrid2026.cdms.westernsydney.edu.au/)).
