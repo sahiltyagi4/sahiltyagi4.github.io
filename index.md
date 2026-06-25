@@ -154,10 +154,10 @@ body.dark-mode .news-window { background: #2e1915; }
 
 > ## Teaching
 - _Associate Instructor (IUB), High-Performance Computing (ENGR-E317/517)_: Spring 2024
-- _Associate Instructor (IUB), Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2024, Fall 2023, Fall 2022
+- _Associate Instructor (IUB), Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2022/2023/2024
 - _Associate Instructor (IUB), Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
-- _Associate Instructor (IUB), Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2022, Spring 2021
-- _Associate Instructor (IUB), Cloud Computing (ENGR-E516)_: Fall 2021, Fall 2020, Fall 2019
+- _Associate Instructor (IUB), Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2021/2022
+- _Associate Instructor (IUB), Cloud Computing (ENGR-E516)_: Fall 2019/2020/2021
 
 ---
 
