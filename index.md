@@ -120,7 +120,7 @@ body.dark-mode .news-window { background: #2e1915; }
 	> 1. **Tyagi, S.**, & Wang, F. OmniFed: Towards Configurable Cross-Silo Federated Learning. 2026 The Future of Computing, Collaboration Catalyst, ORNL.
 	> 1. **Tyagi, S.**, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (**OSDX '25**) [[pdf]](files/omnifed_osdx_final.pdf).
 	> 1. **Tyagi, S.**, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).
-	> 1. **Tyagi, S.** Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**CCGridW '23**), 349-350 [[pdf]](files/scavenger_poster.pdf).<br/>
+	> 1. **Tyagi, S.** Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**CCGridW '23**), 349-350 [[pdf]](files/scavenger_poster.pdf). (_Best Poster Award_)<br/>
 
 > - **Workshop proceedings**
 	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).<br/>
