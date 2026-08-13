@@ -164,9 +164,9 @@ body.dark-mode .news-window { background: #2e1915; }
 ---
 
 > ## Services
-- _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee)
-- _2025_: Reviewer/Sub-reviewer for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), IEEE eScience, Elsevier Neurocomputing, Journal of Systems Research (JSys) Artifact evaluation board, AI4S workshop @Supercomputing (SC25).
-- _2026_: Reviewer for International Parallel & Distributed Processing Symposium (Program committee @IPDPS'26), Technical program committee SC26 (Data Analytics, Visualization, & Storage track), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys) Artifact evaluation board, IEEE eScience.
+- _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee).
+- _2025_: Reviewer/Sub-reviewer/Technical program committee for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), IEEE eScience, Elsevier Neurocomputing, Journal of Systems Research (JSys) Artifact evaluation board, AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (IPDPS).
+- _2026_: Reviewer/Sub-reviewer/Technical program committee for SC26 (Data Analytics, Visualization, & Storage track), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys) Artifact evaluation board, IEEE eScience, International Parallel & Distributed Processing Symposium (IPDPS).
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
