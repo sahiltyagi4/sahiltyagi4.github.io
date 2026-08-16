@@ -164,9 +164,9 @@ body.dark-mode .news-window { background: #2e1915; }
 ---
 
 > ## Services
-- _2024_: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee).
-- _2025_: Reviewer/Sub-reviewer/Technical program committee for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), IEEE eScience, Elsevier Neurocomputing, Journal of Systems Research (JSys) Artifact evaluation board, AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (IPDPS).
-- _2026_: Reviewer/Sub-reviewer/Technical program committee for SC26 (Data Analytics, Visualization, & Storage track), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys) Artifact evaluation board, IEEE eScience, International Parallel & Distributed Processing Symposium (IPDPS).
+- **_2024_**: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee).
+- **_2025_**: Reviewer/Sub-reviewer/Program committee for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), IEEE eScience, Elsevier Neurocomputing, Journal of Systems Research (JSys) Artifact evaluation board, AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (IPDPS).
+- **_2026_**: Reviewer/Sub-reviewer/Program committee for SC26 (Data Analytics, Visualization, & Storage track), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys) Artifact evaluation board, IEEE eScience, International Parallel & Distributed Processing Symposium (IPDPS), Workshop organizer [FPAI-HPC’26](https://hpcfl.github.io/Cluster26/) @IEEE Cluster'26.
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
@@ -178,6 +178,7 @@ body.dark-mode .news-window { background: #2e1915; }
 - *Best early-career research poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
 - *Google Cloud Student Researcher (2021, 2022)*: Received $2000 Google Cloud credits for research.
 - *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
+- *NERSC Compute*: 	Received compute hours on NERSC's Perlmutter system (2026).
 
 ---
 
