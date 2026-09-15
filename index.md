@@ -54,7 +54,7 @@ body.dark-mode .news-window { background: #2e1915; }
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
-- **07/2026** - Organizing the 3rd Workshop on Federated and Privacy-Preserving AI for HPC ([FPAI-HPC’26](https://hpcfl.github.io/Cluster26/)) in conjunction with [IEEE CLUSTER'26](https://clustercomp.org/2026/) this September in Alexandria, Virginia, USA.
+- **09/2026** - Organizing the 3rd Workshop on ([Federated and Privacy-Preserving AI for HPC (FPAI-HPC’26)](https://hpcfl.github.io/Cluster26/)) with [Olivera Kotevska](https://okotevska.github.io/), to be held in conjunction with [IEEE CLUSTER'26](https://clustercomp.org/2026/) on September 22, 2026 in Alexandria, Virginia.
 
 - **06/2026** - Attended 2026 Trillion Parameter Consortium ([TPC26](https://tpc26.org/)) in Baltimore, Maryland, and showcased my work on cross-facility federated learning [[link]](https://www.linkedin.com/posts/share-7467908723143757824-XKcJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAl445kBd7ZWXOPv2bu_TLj8ZOqaQ2ci_mY).
 
@@ -125,7 +125,8 @@ body.dark-mode .news-window { background: #2e1915; }
 	> 1. **Tyagi, S.** Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**CCGridW '23**), 349-350 [[pdf]](files/scavenger_poster.pdf). (_Best Poster Award_)<br/>
 
 > - **Workshop proceedings**
-	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).<br/>
+	> 1. **Tyagi, S.**<sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).
+	> 1. Kotevska, 0., Carlson, M., Gao Y., Jeanson F., Li Y., Lindskog, W., Naseri, M., Ryu, M., **Tyagi, S.**, Watkins, J., Wang, F., Madduri, R., & Kim, K. From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science. 4th Annual Trillion Parameter Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'26 workshops**).<br/>
 
 > - **Conference proceedings**
 	> 1. **Tyagi, S.**, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**) *(Accpt. rate 25%)* [[pdf]](files/tula.pdf).
