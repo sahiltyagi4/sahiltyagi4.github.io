@@ -45,9 +45,11 @@ hr {
 .social-links {
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 6px;
+    justify-content: flex-start;
+    gap: 14px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px 20% 4px 20%;
 }
 .social-icon {
     display: inline-flex;
@@ -60,8 +62,8 @@ hr {
     text-decoration: none;
 }
 .social-icon svg {
-    width: 16px;
-    height: 16px;
+    width: 18px;
+    height: 18px;
     fill: currentColor;
 }
 .site-header {
