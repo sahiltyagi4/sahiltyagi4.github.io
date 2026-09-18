@@ -169,6 +169,7 @@
 </head>
 <body>
     <div class="wrapper">
+        <header class="site-header">
         <div class="navbar container">
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
@@ -231,6 +232,7 @@
         </div>
         <div style="clear:both"></div>
         <hr>
+        </header>
         {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
