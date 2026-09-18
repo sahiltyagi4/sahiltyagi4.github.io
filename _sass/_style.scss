@@ -49,7 +49,7 @@ hr {
     gap: 14px;
     width: 100%;
     box-sizing: border-box;
-    padding: 8px 20% 4px 20%;
+    padding: 8px 20% 4px calc(20% + 40px);
 }
 .social-icon {
     display: inline-flex;
@@ -62,8 +62,8 @@ hr {
     text-decoration: none;
 }
 .social-icon svg {
-    width: 18px;
-    height: 18px;
+    width: 22px;
+    height: 22px;
     fill: currentColor;
 }
 .site-header {
