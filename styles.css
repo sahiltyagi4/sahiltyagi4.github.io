@@ -1,9 +1,9 @@
 :root {
-  --bg-color-light: #e0f0e3;
+  --bg-color-light: #FFB343;
   --text-color-light: #3b2f2f;
-  --link-color: #028900;
+  --link-color: #B37E2E;
 
-  --bg-color-dark: #22311d;
+  --bg-color-dark: #482B00;
   --text-color-dark: #e5e4e2;
 }
 
@@ -19,7 +19,7 @@ body {
 body.dark-mode {
   background-color: var(--bg-color-dark);
   color: var(--text-color-dark);
-  --link-color: #74d600;
+  --link-color: #D78000;
 }
 
 .container {
