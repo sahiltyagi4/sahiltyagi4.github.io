@@ -54,7 +54,7 @@ body.dark-mode .news-window { background: #2e1915; }
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
-- **09/2026** - Organized the 3rd Workshop on ([Federated and Privacy-Preserving AI for HPC (FPAI-HPC’26)](https://hpcfl.github.io/Cluster26/)) in conjunction with [IEEE CLUSTER'26](https://clustercomp.org/2026/) on September 22, 2026 in Alexandria, VA.
+- **09/2026** - Organized the 3rd Workshop on [Federated and Privacy-Preserving AI for HPC (FPAI-HPC’26)](https://hpcfl.github.io/Cluster26/) in conjunction with [IEEE CLUSTER'26](https://clustercomp.org/2026/) on September 22, 2026 in Alexandria, VA.
 
 - **06/2026** - Attended 2026 Trillion Parameter Consortium ([TPC26](https://tpc26.org/)) in Baltimore, MD, and showcased my work on cross-facility federated learning [[link]](https://www.linkedin.com/posts/share-7467908723143757824-XKcJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAl445kBd7ZWXOPv2bu_TLj8ZOqaQ2ci_mY).
 
