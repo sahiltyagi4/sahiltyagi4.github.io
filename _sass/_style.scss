@@ -71,7 +71,7 @@ hr {
     top: 0;
     z-index: 1000;
     width: 100%;
-    background-color: var(--bg-color-light);
+    background-color: #FDBE02;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 :root {
@@ -81,7 +81,7 @@ hr {
     scroll-margin-top: calc(var(--header-height) + 16px);
 }
 body.dark-mode .site-header {
-    background-color: var(--bg-color-dark);
+    background-color: #FDBE02;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
 .navbar-ul {
