@@ -24,12 +24,12 @@ body.dark-mode {
 
 .container {
   text-align: left;
-  padding: 20px 10%;
+  padding: 20px 0;
 }
 
 .page-content {
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 0;
+  padding-right: 0;
   box-sizing: border-box;
   width: 100%;
   overflow-wrap: break-word;

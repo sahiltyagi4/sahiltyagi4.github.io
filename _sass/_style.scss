@@ -109,7 +109,7 @@ body.dark-mode .site-header {
 /* Divs */
 
 .container {
-    max-width: $max-width;
+    width: 80%;
     margin: auto;
 }
 .wrapper {
@@ -127,17 +127,7 @@ body.dark-mode .site-header {
 
 /* Mobile */
 
-@media (max-width: 800px) {
-    .container {
-        max-width: $med-width;
-        transition: 0.3s ease all;
-    }
-}
-
 @media (max-width: 650px) {
-    .container {
-        max-width: 83%;
-    }
     .navbar-ul {
         margin-top: 5px;
     }
