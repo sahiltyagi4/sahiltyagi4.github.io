@@ -7,15 +7,13 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > Hello! I'm a postdoc in the [Analytics and AI Methods at Scale (AAIMS)](https://www.ornl.gov/group/aaims) group at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/). My current work encompasses scalable ML/AI and federated learning. I'm also involved in the DoE-directed (US Department of Energy) _Genesis Mission_ effort [[link1](https://genesis.energy.gov/), [link2](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)].
 
-> I obtained my bachelors in Electrical engineering, masters and doctorate in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html). In my Ph.D. studies, I was advised by [Prof. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [Indiana University Bloomington](https://www.iu.edu/index.html). There, I worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> My research has been published and presented at leading conference venues and research groups.
+> I obtained my bachelors in Electrical engineering, masters and doctorate in [Intelligent Systems Engineering (ISE)](https://engineering.indiana.edu/index.html). During my Ph.D. studies, I was advised by [Prof. Martin Swany](https://luddy.indiana.edu/contact/profile/?profile_id=307) in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/) at [Indiana University Bloomington](https://www.iu.edu/index.html). There, I worked at the intersection of deep learning, distributed systems and systems for ML/ML for systems. My thesis focused on developing efficient computation and communication models to scale artificial neural networks across edge, cloud and high-performance computing (HPC) environments.<!--Currently, I'm working on topics like distributed training, federated learning, model compression, communication protocols optimized for deep learning, stream processing and differential privacy. --> My research has been published and presented at leading conference venues and research groups.
 
 > Prior to graduate school, I held various software engineering, big data and data science roles in the industry. 
 
 > [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1pKgKoDMeq2bWP1uHzc-BiSOcYB3ly7v5/view?usp=sharing) [last updated 12/2025].
 
 > Happy to connect and collaborate. I can be reached at [[email]](mailto:tyagis@ornl.gov).
-
-<!--Outside of work, he enjoys gaming on his Nintendo (BotW, TotK), and photographing wildlife and astro ([_here_](https://www.flickr.com/photos/200009325@N03/) are some pictures).-->
 
 ---
 
@@ -53,6 +51,8 @@ body.dark-mode .news-window { background: #2e1915; }
 
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
+
+- **11/2026** - Attending [SC26](https://sc26.supercomputing.org/) in Chicago, IL from Nov. 15-20. Looking to connect and possibly collaborate, so please feel free to reach out! 
 
 - **09/2026** - Organized the 3rd Workshop on [Federated and Privacy-Preserving AI for HPC (FPAI-HPC’26)](https://hpcfl.github.io/Cluster26/) in conjunction with [IEEE CLUSTER'26](https://clustercomp.org/2026/) on September 22, 2026 in Alexandria, VA.
 
