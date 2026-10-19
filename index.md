@@ -137,7 +137,7 @@ body.dark-mode .news-window { background: #2e1915; }
 	> 1. <u>Tyagi, S.</u>, & Swany, M. ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (**BigData '22**), 2113-2122 *(Accpt. rate 19.2%)* [[pdf]](files/scadles.pdf).
 	> 1. <u>Tyagi, S.</u>, & Sharma, P. Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching. 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (**ACSOS '20**), 188-194 *(Accpt. rate 25%)* [[pdf]](files/resource_taming.pdf).
 	> 1. Widanage, C., Li, J., <u>Tyagi, S.</u>, Teja, R., Peng, B., Kamburugamuve, S., Baum, D., Smith, D., Qiu, J., & Koskey, J. Anomaly Detection over Streaming Data: Indy500 Case Study. 2019 IEEE 12th International Conference on Cloud Computing (**CLOUD '19**), 9-16 *(Accpt. rate 20%)* [[pdf]](files/indy500.pdf).
-	> 1. Chaturvedi, S., Tyagi, S.</u>, & Simmhan, Y. Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (**e-Science '17**), 403-412 *(Accpt. rate 36%)* [[pdf]](files/collaborative_escience.pdf).<br/>
+	> 1. Chaturvedi, S., <u>Tyagi, S.</u>, & Simmhan, Y. Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (**e-Science '17**), 403-412 *(Accpt. rate 36%)* [[pdf]](files/collaborative_escience.pdf).<br/>
 
 > - **Journal articles**
 	> 1. <u>Tyagi, S.</u>, & Sharma, P. _OmniLearn_: A Framework for Distributed Deep Learning over Heterogeneous Clusters. IEEE Transactions on Parallel and Distributed Systems (**TPDS '25**) *(IF 5.6)* [[pdf]](files/omnilearn.pdf).
