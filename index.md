@@ -13,7 +13,7 @@ title: <span class="site-title">Dr. Sahil Tyagi</span>
 
 > [<u>Curriculum vitae</u>](https://drive.google.com/file/d/1pKgKoDMeq2bWP1uHzc-BiSOcYB3ly7v5/view?usp=sharing) [last updated 12/2025].
 
-> Happy to connect and collaborate. I can be reached at [[email]](mailto:tyagis@ornl.gov).
+> Happy to connect and collaborate. I can be reached at [[<u>email</u>]](mailto:tyagis@ornl.gov).
 
 ---
 
