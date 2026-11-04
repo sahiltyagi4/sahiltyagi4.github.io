@@ -52,7 +52,7 @@ body.dark-mode .news-window { background: #2e1915; }
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
-- **11/2026** - Attending _SC26 [<u>link</u>](https://sc26.supercomputing.org/)_ in Chicago from November 15-20.
+- **11/2026** - Attending _SC26 [(<u>link</u>)](https://sc26.supercomputing.org/)_ in Chicago from November 15-20.
 
 - **09/2026** - Organized the _3rd Workshop on Federated and Privacy-Preserving AI for HPC [(<u>FPAI-HPC’26</u>)](https://hpcfl.github.io/Cluster26/)_ in conjunction with _IEEE CLUSTER'26 [(<u>link</u>)](https://clustercomp.org/2026/)_ on September 22, 2026 in Alexandria, VA.
 
@@ -60,9 +60,9 @@ body.dark-mode .news-window { background: #2e1915; }
 
 - **02/2026** - _Tula: Optimizing Performance, Cost and Generalization in Large-Batch Training_ accepted to _IEEE/ACM 26th International Symposium on Cluster, Cloud and Internet Computing ([<u>CCGrid'26</u>](https://ccgrid2026.cdms.westernsydney.edu.au/))_.
 
-- **12/2025** - Serving on the TPC at the _2026 International Conference for High Performance Computing, Networking, Storage and Analysis_, under Data Analytics, Visualization and Storage track ([<u>SC'26</u>](https://sc26.supercomputing.org/community-engagement/planning-committee/)).
+- **12/2025** - Serving on the TPC at the _2026 International Conference for High Performance Computing, Networking, Storage and Analysis_, under _Data Analytics, Visualization and Storage_ track _([<u>SC'26</u>](https://sc26.supercomputing.org/community-engagement/planning-committee/))_.
 
-- **11/2025** - Attending _SC25 [<u>link</u>](https://sc25.supercomputing.org/)_ in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect! [[pdf]](files/omnifed_sc25_talk.pdf)
+- **11/2025** - Attending _SC25 [(<u>link</u>)](https://sc25.supercomputing.org/)_ in St. Louis, MO to present my _OmniFed_ work and talk about all things federated learning, privacy and agentic workflows! Please feel free to connect! [[pdf]](files/omnifed_sc25_talk.pdf)
 
 - **09/2025** — Serving on program committee of the _40th IEEE International Parallel & Distributed Processing Symposium ([<u>IPDPS'26</u>](https://www.ipdps.org/))_.
 
