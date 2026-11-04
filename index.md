@@ -82,7 +82,7 @@ body.dark-mode .news-window { background: #2e1915; }
 
 - **04/2025** — Released a survey report on trends and advances in computational and communication methods in scalable deep learning [[link]](https://www.researchgate.net/profile/Sahil-Tyagi-2/publication/390663625_An_Overview_of_Computational_and_Communication_Mechanisms_for_Scalable_AI_Systems/links/67f7e28cdf0e3f544f4024f9/An-Overview-of-Computational-and-Communication-Mechanisms-for-Scalable-AI-Systems.pdf).
 
-- **03/2025** — [*OmniLearn*](https://ieeexplore.ieee.org/abstract/document/10932719)*: A Framework for Distributed Deep Learning over Heterogeneous Clusters* was accepted to IEEE Transactions on Parallel and Distributed Systems ([TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)).
+- **03/2025** — [*OmniLearn*](https://ieeexplore.ieee.org/abstract/document/10932719)*: A Framework for Distributed Deep Learning over Heterogeneous Clusters* accepted to _IEEE Transactions on Parallel and Distributed Systems_ ([<u>TPDS</u>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)).
 
 - **01/2025** — Said goodbye to Bloomington and moved to Oak Ridge, Tennessee.
 
