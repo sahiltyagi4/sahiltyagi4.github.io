@@ -115,33 +115,33 @@ body.dark-mode .news-window { background: #2e1915; }
 > ## Publications {#publications}
 
 > - **Preprints**
-	> 1. <u>Tyagi, S.</u> An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[pdf]](files/compute_comm_overview.pdf).
-	> 1. <u>Tyagi, S.</u> On Using Large-Batches in Federated Learning (2025) [[pdf]](files/largebatch_FL.pdf).<br/>
+	> 1. <u>Tyagi, S.</u> An Overview of Computational and Communication Mechanisms for Scalable AI Systems (2025) [[<u>pdf</u>]](files/compute_comm_overview.pdf).
+	> 1. <u>Tyagi, S.</u> On Using Large-Batches in Federated Learning (2025) [[<u>pdf</u>]](files/largebatch_FL.pdf).<br/>
 
 > - **Posters**
 	> 1. <u>Tyagi, S.</u>, & Wang, F. OmniFed: Towards Configurable Cross-Silo Federated Learning. 2026 The Future of Computing, Collaboration Catalyst, ORNL.
-	> 1. <u>Tyagi, S.</u>, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (**OSDX '25**) [[pdf]](files/omnifed_osdx_final.pdf).
-	> 1. <u>Tyagi, S.</u>, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**CLUSTER Workshops '23**), 56-57 [[pdf]](files/selsync_poster.pdf).
-	> 1. <u>Tyagi, S.</u> Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**CCGridW '23**), 349-350 [[pdf]](files/scavenger_poster.pdf). (_Best Poster Award_)<br/>
+	> 1. <u>Tyagi, S.</u>, Cozma, A., Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 ORNL Software and Data Expo (**OSDX '25**) [[<u>pdf</u>]](files/omnifed_osdx_final.pdf).
+	> 1. <u>Tyagi, S.</u>, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization (Poster Abstract). 2023 IEEE International Conference on Cluster Computing Workshops (**CLUSTER Workshops '23**), 56-57 [[<u>pdf</u>]](files/selsync_poster.pdf).
+	> 1. <u>Tyagi, S.</u> Scavenger: A Cloud Service for Optimizing Cost and Performance of DL Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (**CCGridW '23**), 349-350 [[<u>pdf</u>]](files/scavenger_poster.pdf). (_Best Poster Award_)<br/>
 
 > - **Workshop proceedings**
-	> 1. <u>Tyagi, S.</u><sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[pdf]](files/omnifed_sc25.pdf).
-	> 1. Kotevska, 0., Carlson, M., Gao Y., Jeanson F., Li Y., Lindskog, W., Naseri, M., Ryu, M., <u>Tyagi, S.</u>, Watkins, J., Wang, F., Madduri, R., & Kim, K. From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science. 4th Annual Trillion Parameter Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'26 workshops**).<br/>
+	> 1. Kotevska, 0., Carlson, M., Gao Y., Jeanson F., Li Y., Lindskog, W., Naseri, M., Ryu, M., <u>Tyagi, S.</u>, Watkins, J., Wang, F., Madduri, R., & Kim, K. From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science. 4th Annual Trillion Parameter Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'26 workshops**).
+	> 1. <u>Tyagi, S.</u><sup>*</sup>, Cozma, A.<sup>*</sup>, Kotevska, O., & Wang, F. OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. 2025 Workshop on Extreme Heterogeneity and AI Convergence in HPC at the International Conference for High Performance Computing, Networking, Storage and Analysis (**SC'25 workshops**). [\* Equal contribution] [[<u>pdf</u>]](files/omnifed_sc25.pdf).<br/>
 
 > - **Conference proceedings**
-	> 1. <u>Tyagi, S.</u>, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**), 231-242 *(Accpt. rate 25%)* [[pdf]](files/tula.pdf).
-	> 1. <u>Tyagi, S.</u>, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[pdf]](files/adopt.pdf).
-	> 1. <u>Tyagi, S.</u>, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[pdf]](files/selsync.pdf).
-	> 1. <u>Tyagi, S.</u>, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[pdf]](files/gravac.pdf).
-	> 1. <u>Tyagi, S.</u>, & Sharma, P. Scavenger: A Cloud Service For Optimizing Cost and Performance of ML Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '23**), 403-413 *(Accpt. rate 21%)* [[pdf]](files/scavenger.pdf).
-	> 1. <u>Tyagi, S.</u>, & Swany, M. ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (**BigData '22**), 2113-2122 *(Accpt. rate 19.2%)* [[pdf]](files/scadles.pdf).
-	> 1. <u>Tyagi, S.</u>, & Sharma, P. Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching. 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (**ACSOS '20**), 188-194 *(Accpt. rate 25%)* [[pdf]](files/resource_taming.pdf).
-	> 1. Widanage, C., Li, J., <u>Tyagi, S.</u>, Teja, R., Peng, B., Kamburugamuve, S., Baum, D., Smith, D., Qiu, J., & Koskey, J. Anomaly Detection over Streaming Data: Indy500 Case Study. 2019 IEEE 12th International Conference on Cloud Computing (**CLOUD '19**), 9-16 *(Accpt. rate 20%)* [[pdf]](files/indy500.pdf).
-	> 1. Chaturvedi, S., <u>Tyagi, S.</u>, & Simmhan, Y. Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (**e-Science '17**), 403-412 *(Accpt. rate 36%)* [[pdf]](files/collaborative_escience.pdf).<br/>
+	> 1. <u>Tyagi, S.</u>, & Wang, F. Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training. IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '26**), 231-242 *(Accpt. rate 25%)* [[<u>pdf</u>]](files/tula.pdf).
+	> 1. <u>Tyagi, S.</u>, & Swany, M. Flexible Communication for Optimal Distributed Learning over Unpredictable Networks. 2023 IEEE International Conference on Big Data (**BigData '23**), 925-935 *(Accpt. rate 17.5%)* [[<u>pdf</u>]](files/adopt.pdf).
+	> 1. <u>Tyagi, S.</u>, & Swany, M. Accelerating Distributed ML Training via Selective Synchronization. 2023 IEEE International Conference on Cluster Computing (**CLUSTER '23**), 1-12 *(Accpt. rate 25%)* [[<u>pdf</u>]](files/selsync.pdf).
+	> 1. <u>Tyagi, S.</u>, & Swany, M. GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (**CLOUD '23**), 319-329 *(Accpt. rate 20%)* [[<u>pdf</u>]](files/gravac.pdf).
+	> 1. <u>Tyagi, S.</u>, & Sharma, P. Scavenger: A Cloud Service For Optimizing Cost and Performance of ML Training. 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (**CCGrid '23**), 403-413 *(Accpt. rate 21%)* [[<u>pdf</u>]](files/scavenger.pdf).
+	> 1. <u>Tyagi, S.</u>, & Swany, M. ScaDLES: Scalable Deep Learning over Streaming data at the Edge. 2022 IEEE International Conference on Big Data (**BigData '22**), 2113-2122 *(Accpt. rate 19.2%)* [[<u>pdf</u>]](files/scadles.pdf).
+	> 1. <u>Tyagi, S.</u>, & Sharma, P. Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching. 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (**ACSOS '20**), 188-194 *(Accpt. rate 25%)* [[<u>pdf</u>]](files/resource_taming.pdf).
+	> 1. Widanage, C., Li, J., <u>Tyagi, S.</u>, Teja, R., Peng, B., Kamburugamuve, S., Baum, D., Smith, D., Qiu, J., & Koskey, J. Anomaly Detection over Streaming Data: Indy500 Case Study. 2019 IEEE 12th International Conference on Cloud Computing (**CLOUD '19**), 9-16 *(Accpt. rate 20%)* [[<u>pdf</u>]](files/indy500.pdf).
+	> 1. Chaturvedi, S., <u>Tyagi, S.</u>, & Simmhan, Y. Collaborative Reuse of Streaming Dataflows in IoT Applications. 2017 IEEE 13th International Conference on e-Science (**e-Science '17**), 403-412 *(Accpt. rate 36%)* [[<u>pdf</u>]](files/collaborative_escience.pdf).<br/>
 
 > - **Journal articles**
-	> 1. <u>Tyagi, S.</u>, & Sharma, P. _OmniLearn_: A Framework for Distributed Deep Learning over Heterogeneous Clusters. IEEE Transactions on Parallel and Distributed Systems (**TPDS '25**) *(IF 5.6)* [[pdf]](files/omnilearn.pdf).
-	> 1. Chaturvedi, S., <u>Tyagi, S.</u>, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 *(IF 5.3)* [[pdf]](files/cost_effective_dataflows.pdf).<br/>
+	> 1. <u>Tyagi, S.</u>, & Sharma, P. _OmniLearn_: A Framework for Distributed Deep Learning over Heterogeneous Clusters. IEEE Transactions on Parallel and Distributed Systems (**TPDS '25**) *(IF 5.6)* [[<u>pdf</u>]](files/omnilearn.pdf).
+	> 1. Chaturvedi, S., <u>Tyagi, S.</u>, & Simmhan, Y.L. (2019). Cost-Effective Sharing of Streaming Dataflows for IoT Applications. IEEE Transactions on Cloud Computing (**TCC '19**), 9, 1391-1407 *(IF 5.3)* [[<u>pdf</u>]](files/cost_effective_dataflows.pdf).<br/>
 
 ---
 
@@ -176,7 +176,7 @@ body.dark-mode .news-window { background: #2e1915; }
 - *NSF Student Grant*: To present research at IEEE CLUSTER 2023, Santa Fe, New Mexico.
 - *Luddy Dean’s Graduate Student Award*: In Fall 2023 for outstanding research.
 - *NSF Travel Award*: To present research at IEEE/ACM CCGrid 2023, Bengaluru, India.
-- *Best early-career research poster award*: Awarded at IEEE/ACM CCGrid 2023 [[pdf]](pictures/ccgrid23_postercertificate.pdf).
+- *Best early-career research poster award*: Awarded at IEEE/ACM CCGrid 2023 [[<u>pdf</u>]](pictures/ccgrid23_postercertificate.pdf).
 - *Google Cloud Student Researcher (2021, 2022)*: Received $2000 Google Cloud credits for research.
 - *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 - *NERSC Compute*: 	Received compute hours on NERSC's Perlmutter system (2026).
@@ -185,25 +185,25 @@ body.dark-mode .news-window { background: #2e1915; }
 
 > ## Talks {#talks}
 
-> 1. _06/2026_: Invited talk, "OmniFed: Towards Configurable Cross-Silo Federated Learning", Trillion Parameter Consortium 2026, Baltimore, Maryland, USA [[slides]](files/omnifed_tpc26.pdf).
-> 1. _05/2026_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training", IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[slides]](files/ccgrid26_tula.pdf).
+> 1. _06/2026_: Invited talk, "OmniFed: Towards Configurable Cross-Silo Federated Learning", Trillion Parameter Consortium 2026, Baltimore, Maryland, USA [[<u>slides</u>]](files/omnifed_tpc26.pdf).
+> 1. _05/2026_: Paper presentation, "Tula: Optimizing Time, Cost, and Generalization in Distributed Large-Batch Training", IEEE/ACM SIGHPC 26th International Symposium on Cluster, Cloud and Internet Computing, Sydney, Australia [[<u>slides</u>]](files/ccgrid26_tula.pdf).
 > 1. _04/2026_: Poster presentation, "OmniFed: Towards Configurable Cross-Silo Federated Learning", The Future of Computing, Collaboration Catalyst session, ORNL, Oak Ridge, TN, USA.
-> 1. _11/2025_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[slides]](files/omnifed_sc25_talk.pdf).
-> 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX) 
+> 1. _11/2025_: Paper presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC", Extreme Heterogeneity and AI Convergence in HPC Workshop, SC25, St. Louis, MO. [[<u>slides</u>]](files/omnifed_sc25_talk.pdf).
+> 1. _08/25_: Poster presentation, "OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC" at ORNL Software and Data Expo (OSDX).
 > 1. _08/2025_: Presented my work on a modular federeated learning framework at ORNL's _Federated and Collaborative Learning for Exascale Science and Security Workshop_, Tennessee, USA.
 > 1. _07/2025_: Research presentation, "Enabling Large-Batch Training via Learned Gradient Mapping" at the 13th Annual ORPA Research Symposium, ORNL, Tennessee, USA.
 > 1. _09/2024_: Invited talk, "Improving Communication in Federated Learning via Adaptive Gradient Compression", INRIA, France.
 > 1. _09/2024_: Invited talk, "Optimizing Compute and Communication in Deep Learning Systems", Oak Ridge National Laboratory (ORNL), Tennessee, USA.
-> 1. _04/2024_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[pdf1]](files/cuda_spring24.pdf), [[pdf2]](files/hpc_dl_spring24.pdf).
-> 1. _12/2023_: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[slides]](files/adopt_talk.pdf).
-> 1. _11/2023_: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[slides]](files/selsync_talk.pdf).
-> 1. _11/2023_: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[poster]](files/selsync_poster.pdf).
+> 1. _04/2024_: Guest lectures, "Parallel Computing with GPUs for Distributed ML Applications", High-Performance Computing (HPC) course, Indiana University Bloomington, USA [[<u>pdf1</u>]](files/cuda_spring24.pdf), [[<u>pdf2</u>]](files/hpc_dl_spring24.pdf).
+> 1. _12/2023_: Paper presentation, "Flexible Communication for Optimal Distributed Learning over Unpredictable Networks." 2023 IEEE International Conference on Big Data, Sorrento, Italy [[<u>slides</u>]](files/adopt_talk.pdf).
+> 1. _11/2023_: Paper presentation, "Accelerating DistributedMLTraining via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[<u>slides</u>]](files/selsync_talk.pdf).
+> 1. _11/2023_: Poster presentation, "Accelerating Distributed ML Training via Selective Synchronization." 2023 IEEE International Conference on Cluster Computing, Santa Fe, New Mexico, USA [[<u>poster</u>]](files/selsync_poster.pdf).
 > 1. _09/2023_: Invited talk, "Towards building efficient computation and communication models for distributed deep learning systems." Mathematics and Computer Science (MCS) division, Argonne National Laboratory, Illinois, USA.
-> 1. _07/2023_: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[slides]](files/gravac_talk.pdf).
-> 1. _05/2023_: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[slides]](files/scavenger_talk.pdf).
-> 1. _05/2023_: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[poster]](files/scavenger_poster.pdf).
-> 1. _12/2022_: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[slides]](files/scadles_talk.pdf).
-> 1. _07/2020_: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[slides]](files/resrctaming_talk.pdf).
-> 1. _11/2018_: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[slides]](files/indy500_intel.pdf).
+> 1. _07/2023_: Paper presentation, "GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training." 2023 IEEE International Conference on Cloud Computing, Chicago, Illinois [[<u>slides</u>]](files/gravac_talk.pdf).
+> 1. _05/2023_: Paper presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[<u>slides</u>]](files/scavenger_talk.pdf).
+> 1. _05/2023_: Poster presentation, "Scavenger: A Cloud Service for Optimizing Cost and Performance of ML Training." 2023 IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, Bengaluru, India [[<u>poster</u>]](files/scavenger_poster.pdf).
+> 1. _12/2022_: Paper presentation, "ScaDLES: Scalable Deep Learning over Streaming Data at the Edge." 2022 IEEE International Conference on Big Data, Osaka, Japan [[<u>slides</u>]](files/scadles_talk.pdf).
+> 1. _07/2020_: Paper presentation, "Taming Resource Heterogeneity in Distributed ML Training with Dynamic Batching." 2020 IEEE International Conference on Autonomic Computing and Self-Organizing Systems, virtual [[<u>slides</u>]](files/resrctaming_talk.pdf).
+> 1. _11/2018_: "Real-Time Anomaly Detection from Edge to HPC-Cloud", Intel Speakerships at SC18 (Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2018), Dallas, Texas, USA [[<u>slides</u>]](files/indy500_intel.pdf).
 
 ---
