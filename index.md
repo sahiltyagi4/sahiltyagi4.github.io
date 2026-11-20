@@ -52,7 +52,7 @@ body.dark-mode .news-window { background: #2e1915; }
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
-- **11/2026** - Attending _SC26 [[<u>link</u>]](https://sc26.supercomputing.org/)_ in Chicago from November 15-20. Looking forward to connect w/ folks working on ML/AI privacy and secure learning.
+- **11/2026** - Attended _SC26 [[<u>link</u>]](https://sc26.supercomputing.org/)_ in Chicago from November 15-20. Looking forward to connect w/ folks working on ML/AI privacy and secure learning.
 
 - **09/2026** - Organized the _3rd Workshop on Federated and Privacy-Preserving AI for HPC [[<u>FPAI-HPC’26</u>]](https://hpcfl.github.io/Cluster26/)_ in conjunction with _IEEE CLUSTER'26 [[<u>link</u>]](https://clustercomp.org/2026/)_ on September 22, 2026 in Alexandria, VA.
 
@@ -165,9 +165,9 @@ body.dark-mode .news-window { background: #2e1915; }
 ---
 
 > ## Services
-- **_2024_**: Reviewer/Sub-reviewer for IEEE CLUSTER, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee).
+- **_2024_**: Reviewer/Sub-reviewer for IEEE Cluster, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee).
 - **_2025_**: Reviewer/Sub-reviewer/Program committee for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), IEEE eScience, Elsevier Neurocomputing, Journal of Systems Research (JSys) Artifact evaluation board, AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (IPDPS).
-- **_2026_**: Reviewer/Sub-reviewer/Program committee for SC26 (Data Analytics, Visualization, & Storage track), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys) Artifact evaluation board, IEEE eScience, International Parallel & Distributed Processing Symposium (IPDPS), Workshop organizer [FPAI-HPC’26](https://hpcfl.github.io/Cluster26/) @IEEE Cluster'26.
+- **_2026_**: Reviewer/Sub-reviewer/Program committee for SC26 (Data Analytics, Visualization, & Storage track), Journal of Parallel and Distributed Computing (JPDC), Journal of Systems Research (JSys) Artifact evaluation board, IEEE eScience, International Parallel & Distributed Processing Symposium (IPDPS), Workshop organizer [FPAI-HPC’26](https://hpcfl.github.io/Cluster26/) @IEEE Cluster'26, IEEE Transactions on Parallel and Distributed Systems (TPDS).
 <!-- Engineering for Us All (e4usa) liaison for high-school students -->
 
 ---
