@@ -155,15 +155,6 @@ body.dark-mode .news-window { background: #2e1915; }
 
 ---
 
-> ## Teaching
-- _Associate Instructor (IUB), High-Performance Computing (ENGR-E317/517)_: Spring 2024
-- _Associate Instructor (IUB), Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2022/2023/2024
-- _Associate Instructor (IUB), Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
-- _Associate Instructor (IUB), Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2021/2022
-- _Associate Instructor (IUB), Cloud Computing (ENGR-E516)_: Fall 2019/2020/2021
-
----
-
 > ## Services
 - **_2024_**: Reviewer/Sub-reviewer for IEEE Cluster, Journal of Parallel and Distributed Computing (JPDC), USENIX Operating Systems Design and Principles (OSDI) and USENIX Annual Technical Conference (ATC) (Artifact evaluation committee).
 - **_2025_**: Reviewer/Sub-reviewer/Program committee for International Joint Conference on Neural Networks (IJCNN), Euro-Par, USENIX Operating Systems Design and Principles (OSDI) (Artifact evaluation committee), Journal of Systems Architecture (JSA), IEEE eScience, Elsevier Neurocomputing, Journal of Systems Research (JSys) Artifact evaluation board, AI4S workshop @Supercomputing (SC25), International Parallel & Distributed Processing Symposium (IPDPS).
@@ -180,6 +171,15 @@ body.dark-mode .news-window { background: #2e1915; }
 - *Google Cloud Student Researcher (2021-2022)*: Received $2000 Google Cloud credits for research.
 - *Student Funding*: Partially funded in graduate school via National Science Foundation (NSF) grants Data Infrastructure Building Blocks (DiBBS) 17-500 and OAC-2112606.
 - *NERSC Compute*: 	Received compute hours on NERSC's Perlmutter system (2026).
+
+---
+
+> ## Teaching
+- _Associate Instructor (IUB), High-Performance Computing (ENGR-E317/517)_: Spring 2024
+- _Associate Instructor (IUB), Computer Networks (ENGR-E318/518, CSCI-P438/538)_: Fall 2022/2023/2024
+- _Associate Instructor (IUB), Operating Systems (ENGR-E319/519, CSCI-P436/536)_: Spring 2023
+- _Associate Instructor (IUB), Distributed Systems (ENGR-E510, CSCI-B534)_: Spring 2021/2022
+- _Associate Instructor (IUB), Cloud Computing (ENGR-E516)_: Fall 2019/2020/2021
 
 ---
 
