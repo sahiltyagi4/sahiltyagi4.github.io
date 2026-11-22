@@ -52,7 +52,7 @@ body.dark-mode .news-window { background: #2e1915; }
 <!-- "markdown=1" lets kramdown render inner markdown -->
 <div class="news-window" markdown="1">
 
-- **11/2026** - Attended _SC26 [[<u>link</u>]](https://sc26.supercomputing.org/)_ in Chicago from November 15-20. Looking forward to connect w/ folks working on ML/AI privacy and secure learning.
+- **11/2026** - Attended _SC26 [[<u>link</u>]](https://sc26.supercomputing.org/)_ in Chicago from November 15-20.
 
 - **09/2026** - Organized the _3rd Workshop on Federated and Privacy-Preserving AI for HPC [[<u>FPAI-HPC’26</u>]](https://hpcfl.github.io/Cluster26/)_ in conjunction with _IEEE CLUSTER'26 [[<u>link</u>]](https://clustercomp.org/2026/)_ on September 22, 2026 in Alexandria, VA.
 
